@@ -1,0 +1,1001 @@
+Status_of_existing_checking_account,Duration_in_month,Credit_history,Purpose,Credit_amount,Savings_account/bonds,Present_employment_since,Installment_rate_in_percentage_of_disposable_income,Personal_status_and_sex,guarantors,Present_residence_since,Property,Age_in_years,Other_installment_plans,Housing,Number_of_existing_credits_at_this_bank,Job,Number_of_people_being_liable_to_provide_maintenance_for,Telephone,Foreign_Worker,Class
+A11,6,critical account,radio/television,1169,Unknown, >= 7 years,4,male : single,,4,real estate,67,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,48,existing credits paid back duly till now,radio/television,5951,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,real estate,22,,Own,1,skilled employee,1,,Yes,2
+A14,12,critical account,education,2096,< 100 DM,4 <= ... < 7 years,2,male : single,,3,real estate,49,,Own,1,unskilled - resident,2,,Yes,1
+A11,42,existing credits paid back duly till now,furniture/equipment,7882,< 100 DM,4 <= ... < 7 years,2,male : single,guarantor,4,building society savings agreement/ life insurance,45,,For Free,1,skilled employee,2,,Yes,1
+A11,24,delay in paying off in the past,Car Used,4870,< 100 DM,1 <= ... < 4 years,3,male : single,,4,no property,53,,For Free,2,skilled employee,2,,Yes,2
+A14,36,existing credits paid back duly till now,education,9055,Unknown,1 <= ... < 4 years,2,male : single,,4,no property,35,,For Free,1,unskilled - resident,2,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,furniture/equipment,2835,500 <= ... < 1000 DM, >= 7 years,3,male : single,,4,building society savings agreement/ life insurance,53,,Own,1,skilled employee,1,,Yes,1
+A12,36,existing credits paid back duly till now,Car New,6948,< 100 DM,1 <= ... < 4 years,2,male : single,,2,car or other,35,,Rent,1,management,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,3059,. >= 1000 DM,4 <= ... < 7 years,2,male : divorced/separated,,4,real estate,61,,Own,1,unskilled - resident,1,,Yes,1
+A12,30,critical account,Car Used,5234,< 100 DM,unemployed,4,male : married/widowed,,2,car or other,28,,Own,2,management,1,,Yes,2
+A12,12,existing credits paid back duly till now,Car Used,1295,< 100 DM,< 1 year,3,female : divorced/separated/married,,1,car or other,25,,Rent,1,skilled employee,1,,Yes,2
+A11,48,existing credits paid back duly till now,business,4308,< 100 DM,< 1 year,3,female : divorced/separated/married,,4,building society savings agreement/ life insurance,24,,Rent,1,skilled employee,1,,Yes,2
+A12,12,existing credits paid back duly till now,radio/television,1567,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,1,car or other,22,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,24,critical account,Car Used,1199,< 100 DM, >= 7 years,4,male : single,,4,car or other,60,,Own,2,unskilled - resident,1,,Yes,2
+A11,15,existing credits paid back duly till now,Car Used,1403,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,4,car or other,28,,Rent,1,skilled employee,1,,Yes,1
+A11,24,existing credits paid back duly till now,radio/television,1282,100 <= ... < 500 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,car or other,32,,Own,1,unskilled - resident,1,,Yes,2
+A14,24,critical account,radio/television,2424,Unknown, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,53,,Own,2,skilled employee,1,,Yes,1
+A11,30,no credits taken/ all credits paid back duly,business,8072,Unknown,< 1 year,2,male : single,,3,car or other,25,Bank,Own,3,skilled employee,1,,Yes,1
+A12,24,existing credits paid back duly till now,Car New,12579,< 100 DM, >= 7 years,4,female : divorced/separated/married,,2,no property,44,,For Free,1,management,1,registered under the customers name,Yes,2
+A14,24,existing credits paid back duly till now,radio/television,3430,500 <= ... < 1000 DM, >= 7 years,3,male : single,,2,car or other,31,,Own,1,skilled employee,2,registered under the customers name,Yes,1
+A14,9,critical account,Car Used,2134,< 100 DM,1 <= ... < 4 years,4,male : single,,4,car or other,48,,Own,3,skilled employee,1,registered under the customers name,Yes,1
+A11,6,existing credits paid back duly till now,radio/television,2647,500 <= ... < 1000 DM,1 <= ... < 4 years,2,male : single,,3,real estate,44,,Rent,1,skilled employee,2,,Yes,1
+A11,10,critical account,Car Used,2241,< 100 DM,< 1 year,1,male : single,,3,real estate,48,,Rent,2,unskilled - resident,2,,No,1
+A12,12,critical account,Car New,1804,100 <= ... < 500 DM,< 1 year,3,male : single,,4,building society savings agreement/ life insurance,44,,Own,1,skilled employee,1,,Yes,1
+A14,10,critical account,furniture/equipment,2069,Unknown,1 <= ... < 4 years,2,male : married/widowed,,1,car or other,26,,Own,2,skilled employee,1,,No,1
+A11,6,existing credits paid back duly till now,furniture/equipment,1374,< 100 DM,1 <= ... < 4 years,1,male : single,,2,real estate,36,Bank,Own,1,unskilled - resident,1,registered under the customers name,Yes,1
+A14,6,no credits taken/ all credits paid back duly,radio/television,426,< 100 DM, >= 7 years,4,male : married/widowed,,4,car or other,39,,Own,1,unskilled - resident,1,,Yes,1
+A13,12,all credits at this bank paid back duly,radio/television,409,. >= 1000 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,3,real estate,42,,Rent,2,skilled employee,1,,Yes,1
+A12,7,existing credits paid back duly till now,radio/television,2415,< 100 DM,1 <= ... < 4 years,3,male : single,guarantor,2,real estate,34,,Own,1,skilled employee,1,,Yes,1
+A11,60,delay in paying off in the past,business,6836,< 100 DM, >= 7 years,3,male : single,,4,no property,63,,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A12,18,existing credits paid back duly till now,business,1913,. >= 1000 DM,< 1 year,3,male : married/widowed,,3,real estate,36,Bank,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,24,existing credits paid back duly till now,furniture/equipment,4020,< 100 DM,1 <= ... < 4 years,2,male : single,,2,car or other,27,Stores,Own,1,skilled employee,1,,Yes,1
+A12,18,existing credits paid back duly till now,Car Used,5866,100 <= ... < 500 DM,1 <= ... < 4 years,2,male : single,,2,car or other,30,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,12,critical account,business,1264,Unknown, >= 7 years,4,male : single,,4,no property,57,,Rent,1,unskilled - resident,1,,Yes,1
+A13,12,existing credits paid back duly till now,furniture/equipment,1474,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,building society savings agreement/ life insurance,33,Bank,Own,1,management,1,registered under the customers name,Yes,1
+A12,45,critical account,radio/television,4746,< 100 DM,< 1 year,4,male : single,,2,building society savings agreement/ life insurance,25,,Own,2,unskilled - resident,1,,Yes,2
+A14,48,critical account,education,6110,< 100 DM,1 <= ... < 4 years,1,male : single,,3,no property,31,Bank,For Free,1,skilled employee,1,registered under the customers name,Yes,1
+A13,18,existing credits paid back duly till now,radio/television,2100,< 100 DM,1 <= ... < 4 years,4,male : single,co-applicant,2,real estate,37,Stores,Own,1,skilled employee,1,,Yes,2
+A13,10,existing credits paid back duly till now,domestic appliances,1225,< 100 DM,1 <= ... < 4 years,2,male : single,,2,car or other,37,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,9,existing credits paid back duly till now,radio/television,458,< 100 DM,1 <= ... < 4 years,4,male : single,,3,real estate,24,,Own,1,skilled employee,1,,Yes,1
+A14,30,existing credits paid back duly till now,radio/television,2333,500 <= ... < 1000 DM, >= 7 years,4,male : single,,2,car or other,30,Bank,Own,1,management,1,,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,1158,500 <= ... < 1000 DM,1 <= ... < 4 years,3,male : divorced/separated,,1,car or other,26,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,18,delay in paying off in the past,repairs,6204,< 100 DM,1 <= ... < 4 years,2,male : single,,4,real estate,44,,Own,1,unskilled - resident,2,registered under the customers name,Yes,1
+A11,30,critical account,Car New,6187,100 <= ... < 500 DM,4 <= ... < 7 years,1,male : married/widowed,,4,car or other,24,,Rent,2,skilled employee,1,,Yes,1
+A11,48,critical account,Car New,6143,< 100 DM, >= 7 years,4,female : divorced/separated/married,,4,no property,58,Stores,For Free,2,unskilled - resident,1,,Yes,2
+A14,11,critical account,Car Used,1393,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,car or other,35,,Own,2,management,1,,Yes,1
+A14,36,existing credits paid back duly till now,radio/television,2299,500 <= ... < 1000 DM, >= 7 years,4,male : single,,4,car or other,39,,Own,1,skilled employee,1,,Yes,1
+A11,6,existing credits paid back duly till now,Car New,1352,500 <= ... < 1000 DM,unemployed,1,female : divorced/separated/married,,2,building society savings agreement/ life insurance,23,,Rent,1,unemployed,1,registered under the customers name,Yes,1
+A14,11,critical account,Car Used,7228,< 100 DM,1 <= ... < 4 years,1,male : single,,4,building society savings agreement/ life insurance,39,,Own,2,unskilled - resident,1,,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,2073,100 <= ... < 500 DM,1 <= ... < 4 years,4,female : divorced/separated/married,co-applicant,2,real estate,28,,Own,1,skilled employee,1,,Yes,1
+A12,24,delay in paying off in the past,furniture/equipment,2333,Unknown,< 1 year,4,male : single,,2,building society savings agreement/ life insurance,29,Bank,Own,1,unskilled - resident,1,,Yes,1
+A12,27,delay in paying off in the past,Car New,5965,< 100 DM, >= 7 years,1,male : single,,2,car or other,30,,Own,2,management,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,1262,< 100 DM,1 <= ... < 4 years,3,male : single,,2,car or other,25,,Own,1,skilled employee,1,,Yes,1
+A14,18,existing credits paid back duly till now,Car New,3378,Unknown,1 <= ... < 4 years,2,male : single,,1,building society savings agreement/ life insurance,31,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,36,delay in paying off in the past,Car Used,2225,< 100 DM, >= 7 years,4,male : single,,4,no property,57,Bank,For Free,2,skilled employee,1,registered under the customers name,Yes,2
+A14,6,all credits at this bank paid back duly,Car Used,783,Unknown,1 <= ... < 4 years,1,male : single,guarantor,2,real estate,26,Stores,Own,1,unskilled - resident,2,,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,6468,Unknown,unemployed,2,male : single,,1,no property,52,,Own,1,management,1,registered under the customers name,Yes,2
+A14,36,critical account,radio/television,9566,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,car or other,31,Stores,Own,2,skilled employee,1,,Yes,1
+A13,18,existing credits paid back duly till now,Car Used,1961,< 100 DM, >= 7 years,3,female : divorced/separated/married,,2,car or other,23,,Own,1,management,1,,Yes,1
+A11,36,critical account,furniture/equipment,6229,< 100 DM,< 1 year,4,female : divorced/separated/married,co-applicant,4,no property,23,,Rent,2,unskilled - resident,1,registered under the customers name,Yes,2
+A12,9,existing credits paid back duly till now,business,1391,< 100 DM,1 <= ... < 4 years,2,male : married/widowed,,1,real estate,27,Bank,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,15,critical account,radio/television,1537,Unknown, >= 7 years,4,male : single,guarantor,4,real estate,50,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,36,no credits taken/ all credits paid back duly,business,1953,< 100 DM, >= 7 years,4,male : single,,4,no property,61,,For Free,1,management,1,registered under the customers name,Yes,2
+A12,48,no credits taken/ all credits paid back duly,business,14421,< 100 DM,1 <= ... < 4 years,2,male : single,,2,car or other,25,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,24,existing credits paid back duly till now,radio/television,3181,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,26,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,27,existing credits paid back duly till now,repairs,5190,Unknown, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,48,,Own,4,skilled employee,2,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,2171,< 100 DM,< 1 year,2,female : divorced/separated/married,,2,car or other,29,Bank,Own,1,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,Car Used,1007,. >= 1000 DM,1 <= ... < 4 years,4,male : married/widowed,,1,real estate,22,,Own,1,skilled employee,1,,Yes,1
+A14,36,existing credits paid back duly till now,education,1819,< 100 DM,1 <= ... < 4 years,4,male : single,,4,no property,37,Stores,For Free,1,skilled employee,1,registered under the customers name,Yes,2
+A14,36,existing credits paid back duly till now,radio/television,2394,Unknown,1 <= ... < 4 years,4,female : divorced/separated/married,,4,car or other,25,,Own,1,skilled employee,1,,Yes,1
+A14,36,existing credits paid back duly till now,Car New,8133,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,2,building society savings agreement/ life insurance,30,Bank,Own,1,skilled employee,1,,Yes,1
+A14,7,critical account,radio/television,730,Unknown, >= 7 years,4,male : single,,2,building society savings agreement/ life insurance,46,,Rent,2,unskilled - resident,1,registered under the customers name,Yes,1
+A11,8,critical account,Car New0,1164,< 100 DM, >= 7 years,3,male : single,,4,no property,51,Bank,For Free,2,management,2,registered under the customers name,Yes,1
+A12,42,critical account,business,5954,< 100 DM,4 <= ... < 7 years,2,female : divorced/separated/married,,1,real estate,41,Bank,Own,2,unskilled - resident,1,,Yes,1
+A11,36,existing credits paid back duly till now,education,1977,Unknown, >= 7 years,4,male : single,,4,no property,40,,Own,1,management,1,registered under the customers name,Yes,2
+A11,12,critical account,Car New,1526,< 100 DM, >= 7 years,4,male : single,,4,no property,66,,For Free,2,management,1,,Yes,1
+A11,42,existing credits paid back duly till now,radio/television,3965,< 100 DM,< 1 year,4,male : single,,3,car or other,34,,Own,1,skilled employee,1,,Yes,2
+A12,11,delay in paying off in the past,radio/television,4771,< 100 DM,4 <= ... < 7 years,2,male : single,,4,building society savings agreement/ life insurance,51,,Own,1,skilled employee,1,,Yes,1
+A14,54,no credits taken/ all credits paid back duly,Car New,9436,Unknown,1 <= ... < 4 years,2,male : single,,2,building society savings agreement/ life insurance,39,,Own,1,unskilled - resident,2,,Yes,1
+A12,30,existing credits paid back duly till now,furniture/equipment,3832,< 100 DM,< 1 year,2,male : married/widowed,,1,building society savings agreement/ life insurance,22,,Own,1,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,radio/television,5943,Unknown,< 1 year,1,female : divorced/separated/married,,1,car or other,44,,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A14,15,existing credits paid back duly till now,radio/television,1213,500 <= ... < 1000 DM, >= 7 years,4,male : single,,3,building society savings agreement/ life insurance,47,Stores,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,18,existing credits paid back duly till now,business,1568,100 <= ... < 500 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,4,building society savings agreement/ life insurance,24,,Rent,1,unskilled - resident,1,,Yes,1
+A11,24,existing credits paid back duly till now,Car New0,1755,< 100 DM, >= 7 years,4,female : divorced/separated/married,guarantor,4,real estate,58,,Own,1,unskilled - resident,1,registered under the customers name,Yes,1
+A11,10,existing credits paid back duly till now,radio/television,2315,< 100 DM, >= 7 years,3,male : single,,4,real estate,52,,Own,1,unskilled - resident,1,,Yes,1
+A14,12,critical account,business,1412,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,guarantor,2,real estate,29,,Own,2,management,1,registered under the customers name,Yes,1
+A12,18,critical account,furniture/equipment,1295,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,building society savings agreement/ life insurance,27,,Own,2,skilled employee,1,,Yes,1
+A12,36,existing credits paid back duly till now,education,12612,100 <= ... < 500 DM,1 <= ... < 4 years,1,male : single,,4,no property,47,,For Free,1,skilled employee,2,registered under the customers name,Yes,2
+A11,18,existing credits paid back duly till now,Car Used,2249,100 <= ... < 500 DM,4 <= ... < 7 years,4,male : single,,3,car or other,30,,Own,1,management,2,registered under the customers name,Yes,1
+A11,12,no credits taken/ all credits paid back duly,repairs,1108,< 100 DM,4 <= ... < 7 years,4,male : single,,3,real estate,28,,Own,2,skilled employee,1,,Yes,2
+A14,12,critical account,radio/television,618,< 100 DM, >= 7 years,4,male : single,,4,real estate,56,,Own,1,skilled employee,1,,Yes,1
+A11,12,critical account,Car New,1409,< 100 DM, >= 7 years,4,male : single,,3,real estate,54,,Own,1,skilled employee,1,,Yes,1
+A14,12,critical account,radio/television,797,Unknown, >= 7 years,4,female : divorced/separated/married,,3,building society savings agreement/ life insurance,33,Bank,Own,1,unskilled - resident,2,,Yes,2
+A13,24,critical account,furniture/equipment,3617,Unknown, >= 7 years,4,male : single,co-applicant,4,no property,20,,Rent,2,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,Car Used,1318,. >= 1000 DM, >= 7 years,4,male : single,,4,real estate,54,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,54,no credits taken/ all credits paid back duly,business,15945,< 100 DM,< 1 year,3,male : single,,4,no property,58,,Rent,1,skilled employee,1,registered under the customers name,Yes,2
+A14,12,critical account,education,2012,Unknown,4 <= ... < 7 years,4,female : divorced/separated/married,,2,car or other,61,,Own,1,skilled employee,1,,Yes,1
+A12,18,existing credits paid back duly till now,business,2622,100 <= ... < 500 DM,1 <= ... < 4 years,4,male : single,,4,car or other,34,,Own,1,skilled employee,1,,Yes,1
+A12,36,critical account,radio/television,2337,< 100 DM, >= 7 years,4,male : single,,4,real estate,36,,Own,1,skilled employee,1,,Yes,1
+A12,20,delay in paying off in the past,Car New,7057,Unknown,4 <= ... < 7 years,3,male : single,,4,building society savings agreement/ life insurance,36,Bank,Rent,2,management,2,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,Car Used,1469,100 <= ... < 500 DM, >= 7 years,4,male : married/widowed,,4,real estate,41,,Rent,1,unskilled - resident,1,,Yes,1
+A12,36,existing credits paid back duly till now,radio/television,2323,< 100 DM,4 <= ... < 7 years,4,male : single,,4,car or other,24,,Rent,1,skilled employee,1,,Yes,1
+A14,6,delay in paying off in the past,radio/television,932,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,2,real estate,24,,Own,1,skilled employee,1,,Yes,1
+A12,9,critical account,furniture/equipment,1919,< 100 DM,4 <= ... < 7 years,4,male : single,,3,car or other,35,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,Car New,2445,Unknown,< 1 year,2,male : married/widowed,,4,car or other,26,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A12,24,critical account,Car New0,11938,< 100 DM,1 <= ... < 4 years,2,male : single,co-applicant,3,car or other,39,,Own,2,management,2,registered under the customers name,Yes,2
+A14,18,all credits at this bank paid back duly,Car Used,6458,< 100 DM, >= 7 years,2,male : single,,4,no property,39,Bank,Own,2,management,2,registered under the customers name,Yes,2
+A12,12,existing credits paid back duly till now,Car Used,6078,< 100 DM,4 <= ... < 7 years,2,male : single,,2,car or other,32,,Own,1,skilled employee,1,,Yes,1
+A11,24,existing credits paid back duly till now,furniture/equipment,7721,Unknown,< 1 year,1,female : divorced/separated/married,,2,building society savings agreement/ life insurance,30,,Own,1,skilled employee,1,registered under the customers name,No,1
+A12,14,existing credits paid back duly till now,business,1410,500 <= ... < 1000 DM, >= 7 years,1,male : married/widowed,,2,real estate,35,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,6,delay in paying off in the past,business,1449,100 <= ... < 500 DM, >= 7 years,1,male : divorced/separated,,2,car or other,31,Bank,Own,2,skilled employee,2,,Yes,1
+A13,15,existing credits paid back duly till now,education,392,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,23,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A12,18,existing credits paid back duly till now,Car Used,6260,< 100 DM,4 <= ... < 7 years,3,male : single,,3,real estate,28,,Rent,1,unskilled - resident,1,,Yes,1
+A14,36,critical account,Car Used,7855,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,real estate,25,Stores,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A11,12,existing credits paid back duly till now,radio/television,1680,500 <= ... < 1000 DM, >= 7 years,3,male : married/widowed,,1,real estate,35,,Own,1,skilled employee,1,,Yes,1
+A14,48,critical account,radio/television,3578,Unknown, >= 7 years,4,male : single,,1,real estate,47,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,42,existing credits paid back duly till now,radio/television,7174,Unknown,4 <= ... < 7 years,4,female : divorced/separated/married,,3,car or other,30,,Own,1,management,1,registered under the customers name,Yes,2
+A11,10,critical account,furniture/equipment,2132,Unknown,< 1 year,2,female : divorced/separated/married,co-applicant,3,real estate,27,,Rent,2,skilled employee,1,,No,1
+A11,33,critical account,furniture/equipment,4281,500 <= ... < 1000 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,4,car or other,23,,Own,2,skilled employee,1,,Yes,2
+A12,12,critical account,Car Used,2366,500 <= ... < 1000 DM,4 <= ... < 7 years,3,male : divorced/separated,,3,car or other,36,,Own,1,management,1,registered under the customers name,Yes,1
+A11,21,existing credits paid back duly till now,radio/television,1835,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,2,real estate,25,,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A14,24,critical account,Car New,3868,< 100 DM, >= 7 years,4,female : divorced/separated/married,,2,car or other,41,,Rent,2,management,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,furniture/equipment,1768,< 100 DM,1 <= ... < 4 years,3,male : single,,2,real estate,24,,Rent,1,unskilled - resident,1,,Yes,1
+A13,10,critical account,Car Used,781,< 100 DM, >= 7 years,4,male : single,,4,no property,63,,For Free,2,skilled employee,1,registered under the customers name,Yes,1
+A12,18,existing credits paid back duly till now,furniture/equipment,1924,Unknown,< 1 year,4,female : divorced/separated/married,,3,real estate,27,,Rent,1,skilled employee,1,,Yes,2
+A11,12,critical account,Car Used,2121,< 100 DM,1 <= ... < 4 years,4,male : single,,2,building society savings agreement/ life insurance,30,,Own,2,skilled employee,1,,Yes,1
+A11,12,existing credits paid back duly till now,radio/television,701,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,2,real estate,40,,Own,1,unskilled - resident,1,,Yes,1
+A12,12,existing credits paid back duly till now,repairs,639,< 100 DM,1 <= ... < 4 years,4,male : single,,2,car or other,30,,Own,1,skilled employee,1,,Yes,2
+A12,12,critical account,Car New,1860,< 100 DM,unemployed,4,male : single,,2,car or other,34,,Own,2,management,1,registered under the customers name,Yes,1
+A11,12,critical account,Car Used,3499,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,co-applicant,2,real estate,29,,Own,2,skilled employee,1,,Yes,2
+A12,48,existing credits paid back duly till now,Car Used,8487,Unknown,4 <= ... < 7 years,1,female : divorced/separated/married,,2,car or other,24,,Own,1,skilled employee,1,,Yes,1
+A11,36,delay in paying off in the past,education,6887,< 100 DM,1 <= ... < 4 years,4,male : single,,3,building society savings agreement/ life insurance,29,Stores,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,15,existing credits paid back duly till now,furniture/equipment,2708,< 100 DM,< 1 year,2,male : single,,3,building society savings agreement/ life insurance,27,Bank,Own,2,unskilled - resident,1,,Yes,1
+A14,18,existing credits paid back duly till now,furniture/equipment,1984,< 100 DM,1 <= ... < 4 years,4,male : single,,4,no property,47,Bank,For Free,2,skilled employee,1,,Yes,1
+A14,60,existing credits paid back duly till now,radio/television,10144,100 <= ... < 500 DM,4 <= ... < 7 years,2,female : divorced/separated/married,,4,real estate,21,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,12,critical account,radio/television,1240,Unknown, >= 7 years,4,female : divorced/separated/married,,2,real estate,38,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,27,delay in paying off in the past,Car New,8613,. >= 1000 DM,1 <= ... < 4 years,2,male : single,,2,car or other,27,,Own,2,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,766,500 <= ... < 1000 DM,1 <= ... < 4 years,4,male : single,,3,real estate,66,,Own,1,unskilled - resident,1,,Yes,2
+A12,15,critical account,radio/television,2728,Unknown,4 <= ... < 7 years,4,male : single,guarantor,2,real estate,35,Bank,Own,3,skilled employee,1,registered under the customers name,Yes,1
+A13,12,existing credits paid back duly till now,radio/television,1881,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,car or other,44,,Rent,1,unskilled - resident,1,registered under the customers name,Yes,1
+A13,6,existing credits paid back duly till now,Car Used,709,. >= 1000 DM,< 1 year,2,male : married/widowed,,2,real estate,27,,Own,1,unemployed,1,,No,1
+A12,36,existing credits paid back duly till now,radio/television,4795,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,no property,30,,Own,1,management,1,registered under the customers name,Yes,1
+A11,27,existing credits paid back duly till now,radio/television,3416,< 100 DM,1 <= ... < 4 years,3,male : single,,2,car or other,27,,Own,1,management,1,,Yes,1
+A11,18,existing credits paid back duly till now,furniture/equipment,2462,< 100 DM,1 <= ... < 4 years,2,male : single,,2,car or other,22,,Own,1,skilled employee,1,,Yes,2
+A14,21,critical account,furniture/equipment,2288,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,23,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,48,all credits at this bank paid back duly,business,3566,100 <= ... < 500 DM,4 <= ... < 7 years,4,male : single,,2,car or other,30,,Own,1,skilled employee,1,,Yes,1
+A11,6,critical account,Car Used,860,< 100 DM, >= 7 years,1,female : divorced/separated/married,,4,no property,39,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,12,critical account,Car Used,682,100 <= ... < 500 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,3,car or other,51,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,36,critical account,furniture/equipment,5371,< 100 DM,1 <= ... < 4 years,3,male : single,guarantor,2,building society savings agreement/ life insurance,28,,Own,2,skilled employee,1,,Yes,1
+A14,18,critical account,radio/television,1582,. >= 1000 DM, >= 7 years,4,male : single,,4,car or other,46,,Own,2,skilled employee,1,,Yes,1
+A14,6,existing credits paid back duly till now,radio/television,1346,100 <= ... < 500 DM, >= 7 years,2,male : single,,4,no property,42,Bank,For Free,1,skilled employee,2,registered under the customers name,Yes,1
+A14,10,existing credits paid back duly till now,radio/television,1924,< 100 DM,1 <= ... < 4 years,1,male : single,,4,building society savings agreement/ life insurance,38,,Own,1,skilled employee,1,registered under the customers name,No,1
+A13,36,existing credits paid back duly till now,radio/television,5848,< 100 DM,1 <= ... < 4 years,4,male : single,,1,car or other,24,,Own,1,skilled employee,1,,Yes,1
+A12,24,critical account,Car New,7758,. >= 1000 DM, >= 7 years,2,female : divorced/separated/married,,4,no property,29,,Rent,1,skilled employee,1,,Yes,1
+A12,24,delay in paying off in the past,business,6967,100 <= ... < 500 DM,4 <= ... < 7 years,4,male : single,,4,car or other,36,,Rent,1,management,1,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,furniture/equipment,1282,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,4,car or other,20,,Rent,1,skilled employee,1,,Yes,2
+A11,9,critical account,repairs,1288,100 <= ... < 500 DM, >= 7 years,3,male : single,guarantor,4,real estate,48,,Own,2,skilled employee,2,,No,1
+A11,12,all credits at this bank paid back duly,retraining,339,< 100 DM, >= 7 years,4,male : married/widowed,,1,car or other,45,Bank,Own,1,unskilled - resident,1,,Yes,1
+A12,24,existing credits paid back duly till now,Car Used,3512,100 <= ... < 500 DM,4 <= ... < 7 years,2,male : single,,3,car or other,38,Bank,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,6,critical account,radio/television,1898,Unknown,1 <= ... < 4 years,1,male : single,,2,real estate,34,,Own,2,unskilled - resident,2,,Yes,1
+A14,24,critical account,radio/television,2872,100 <= ... < 500 DM, >= 7 years,3,male : single,,4,real estate,36,,Own,1,skilled employee,2,registered under the customers name,Yes,1
+A14,18,critical account,Car Used,1055,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,building society savings agreement/ life insurance,30,,Own,2,skilled employee,1,,Yes,1
+A14,15,existing credits paid back duly till now,domestic appliances,1262,500 <= ... < 1000 DM,4 <= ... < 7 years,4,male : single,,3,building society savings agreement/ life insurance,36,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,10,existing credits paid back duly till now,Car Used,7308,< 100 DM,unemployed,2,male : single,,4,no property,70,Bank,For Free,1,management,1,registered under the customers name,Yes,1
+A14,36,existing credits paid back duly till now,Car Used,909,500 <= ... < 1000 DM, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,36,,Own,1,skilled employee,1,,Yes,1
+A14,6,existing credits paid back duly till now,furniture/equipment,2978,500 <= ... < 1000 DM,1 <= ... < 4 years,1,male : single,,2,car or other,32,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,18,existing credits paid back duly till now,furniture/equipment,1131,< 100 DM,unemployed,4,female : divorced/separated/married,,2,car or other,33,,Own,1,skilled employee,1,,Yes,2
+A12,11,existing credits paid back duly till now,furniture/equipment,1577,. >= 1000 DM,< 1 year,4,female : divorced/separated/married,,1,real estate,20,,Own,1,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,furniture/equipment,3972,< 100 DM,4 <= ... < 7 years,2,female : divorced/separated/married,,4,building society savings agreement/ life insurance,25,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A12,24,critical account,business,1935,< 100 DM, >= 7 years,4,male : divorced/separated,,4,real estate,31,,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A11,15,no credits taken/ all credits paid back duly,Car Used,950,< 100 DM, >= 7 years,4,male : single,,3,car or other,33,,Rent,2,skilled employee,2,,Yes,2
+A14,12,existing credits paid back duly till now,furniture/equipment,763,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,1,real estate,26,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,24,delay in paying off in the past,furniture/equipment,2064,< 100 DM,unemployed,3,female : divorced/separated/married,,2,building society savings agreement/ life insurance,34,,Own,1,management,1,registered under the customers name,Yes,2
+A12,8,existing credits paid back duly till now,radio/television,1414,< 100 DM,1 <= ... < 4 years,4,male : single,guarantor,2,real estate,33,,Own,1,skilled employee,1,,No,1
+A11,21,delay in paying off in the past,education,3414,< 100 DM,< 1 year,2,male : single,,1,building society savings agreement/ life insurance,26,,Own,2,skilled employee,1,,Yes,2
+A14,30,all credits at this bank paid back duly,Car New,7485,Unknown,unemployed,4,female : divorced/separated/married,,1,real estate,53,Bank,Own,1,management,1,registered under the customers name,Yes,2
+A11,12,existing credits paid back duly till now,furniture/equipment,2577,< 100 DM,1 <= ... < 4 years,2,male : divorced/separated,,1,car or other,42,,Own,1,skilled employee,1,,Yes,1
+A11,6,critical account,radio/television,338,500 <= ... < 1000 DM, >= 7 years,4,male : single,,4,car or other,52,,Own,2,skilled employee,1,,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,1963,< 100 DM,4 <= ... < 7 years,4,male : single,,2,car or other,31,,Rent,2,management,2,registered under the customers name,Yes,1
+A11,21,critical account,Car Used,571,< 100 DM, >= 7 years,4,male : single,,4,real estate,65,,Own,2,skilled employee,1,,Yes,1
+A14,36,delay in paying off in the past,business,9572,< 100 DM,< 1 year,1,male : divorced/separated,,1,car or other,28,,Own,2,skilled employee,1,,Yes,2
+A12,36,delay in paying off in the past,business,4455,< 100 DM,1 <= ... < 4 years,2,male : divorced/separated,,2,real estate,30,Stores,Own,2,management,1,registered under the customers name,Yes,2
+A11,21,all credits at this bank paid back duly,Car Used,1647,Unknown,1 <= ... < 4 years,4,male : single,,2,building society savings agreement/ life insurance,40,,Own,2,unskilled - resident,2,,Yes,2
+A14,24,critical account,furniture/equipment,3777,. >= 1000 DM,1 <= ... < 4 years,4,male : single,,4,real estate,50,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,18,critical account,Car Used,884,< 100 DM, >= 7 years,4,male : single,,4,car or other,36,Bank,Own,1,skilled employee,2,registered under the customers name,Yes,2
+A14,15,critical account,radio/television,1360,< 100 DM,1 <= ... < 4 years,4,male : single,,2,building society savings agreement/ life insurance,31,,Own,2,skilled employee,1,,Yes,1
+A12,9,all credits at this bank paid back duly,Car New,5129,< 100 DM, >= 7 years,2,female : divorced/separated/married,,4,no property,74,Bank,For Free,1,management,2,registered under the customers name,Yes,2
+A12,16,critical account,Car Used,1175,< 100 DM,unemployed,2,male : single,,3,car or other,68,,For Free,3,unemployed,1,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,radio/television,674,100 <= ... < 500 DM,4 <= ... < 7 years,4,male : married/widowed,,1,building society savings agreement/ life insurance,20,,Own,1,skilled employee,1,,Yes,2
+A12,18,no credits taken/ all credits paid back duly,furniture/equipment,3244,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,4,car or other,33,Bank,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,business,4591,. >= 1000 DM,1 <= ... < 4 years,2,male : single,,3,building society savings agreement/ life insurance,54,,Own,3,management,1,registered under the customers name,Yes,2
+A12,48,no credits taken/ all credits paid back duly,business,3844,100 <= ... < 500 DM,4 <= ... < 7 years,4,male : single,,4,no property,34,,For Free,1,unskilled - resident,2,,Yes,2
+A12,27,existing credits paid back duly till now,business,3915,< 100 DM,1 <= ... < 4 years,4,male : single,,2,car or other,36,,Own,1,skilled employee,2,registered under the customers name,Yes,2
+A14,6,existing credits paid back duly till now,radio/television,2108,< 100 DM,4 <= ... < 7 years,2,male : married/widowed,,2,real estate,29,,Rent,1,skilled employee,1,,Yes,1
+A12,45,existing credits paid back duly till now,radio/television,3031,100 <= ... < 500 DM,1 <= ... < 4 years,4,male : single,guarantor,4,building society savings agreement/ life insurance,21,,Rent,1,skilled employee,1,,Yes,2
+A12,9,critical account,education,1501,< 100 DM, >= 7 years,2,female : divorced/separated/married,,3,car or other,34,,Own,2,management,1,registered under the customers name,Yes,2
+A14,6,critical account,radio/television,1382,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,1,car or other,28,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,12,existing credits paid back duly till now,furniture/equipment,951,100 <= ... < 500 DM,< 1 year,4,female : divorced/separated/married,,4,car or other,27,Bank,Rent,4,skilled employee,1,,Yes,2
+A12,24,existing credits paid back duly till now,Car New,2760,Unknown, >= 7 years,4,male : single,,4,no property,36,Bank,For Free,1,skilled employee,1,registered under the customers name,Yes,1
+A12,18,delay in paying off in the past,furniture/equipment,4297,< 100 DM, >= 7 years,4,male : divorced/separated,,3,no property,40,,Own,1,management,1,registered under the customers name,Yes,2
+A14,9,critical account,education,936,500 <= ... < 1000 DM, >= 7 years,4,male : single,,2,car or other,52,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,Car Used,1168,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,3,real estate,27,,Own,1,unskilled - resident,1,,Yes,1
+A14,27,delay in paying off in the past,business,5117,< 100 DM,4 <= ... < 7 years,3,male : single,,4,car or other,26,,Own,2,skilled employee,1,,Yes,1
+A11,12,existing credits paid back duly till now,retraining,902,< 100 DM,4 <= ... < 7 years,4,male : married/widowed,,4,building society savings agreement/ life insurance,21,,Rent,1,skilled employee,1,,Yes,2
+A14,12,critical account,Car Used,1495,< 100 DM, >= 7 years,4,male : single,,1,real estate,38,,Own,2,unskilled - resident,2,,Yes,1
+A11,30,critical account,Car New,10623,< 100 DM, >= 7 years,3,male : single,,4,no property,38,,For Free,3,management,2,registered under the customers name,Yes,1
+A14,12,critical account,furniture/equipment,1935,< 100 DM, >= 7 years,4,male : single,,4,real estate,43,,Own,3,skilled employee,1,registered under the customers name,Yes,1
+A12,12,critical account,domestic appliances,1424,< 100 DM,4 <= ... < 7 years,4,male : single,,3,building society savings agreement/ life insurance,26,,Own,1,skilled employee,1,,Yes,1
+A11,24,existing credits paid back duly till now,business,6568,< 100 DM,1 <= ... < 4 years,2,male : married/widowed,,2,car or other,21,Stores,Own,1,unskilled - resident,1,,Yes,1
+A14,12,existing credits paid back duly till now,Car New,1413,. >= 1000 DM,4 <= ... < 7 years,3,male : single,,2,building society savings agreement/ life insurance,55,,Own,1,skilled employee,1,,No,1
+A14,9,critical account,radio/television,3074,Unknown,1 <= ... < 4 years,1,male : single,,2,real estate,33,,Own,2,skilled employee,2,,Yes,1
+A14,36,existing credits paid back duly till now,radio/television,3835,Unknown, >= 7 years,2,female : divorced/separated/married,,4,real estate,45,,Own,1,unskilled - resident,1,registered under the customers name,Yes,1
+A11,27,no credits taken/ all credits paid back duly,business,5293,< 100 DM,unemployed,2,male : single,,4,building society savings agreement/ life insurance,50,Stores,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A13,30,delay in paying off in the past,business,1908,< 100 DM, >= 7 years,4,male : single,,4,real estate,66,,Own,1,management,1,registered under the customers name,Yes,2
+A14,36,critical account,radio/television,3342,Unknown, >= 7 years,4,male : single,,2,car or other,51,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,6,critical account,retraining,932,Unknown,4 <= ... < 7 years,1,female : divorced/separated/married,,3,building society savings agreement/ life insurance,39,,Own,2,unskilled - resident,1,,Yes,1
+A11,18,no credits taken/ all credits paid back duly,business,3104,< 100 DM,4 <= ... < 7 years,3,male : single,,1,building society savings agreement/ life insurance,31,Bank,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A13,36,existing credits paid back duly till now,radio/television,3913,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,23,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,24,existing credits paid back duly till now,furniture/equipment,3021,< 100 DM,1 <= ... < 4 years,2,male : divorced/separated,,2,real estate,24,,Rent,1,unskilled - resident,1,,Yes,1
+A14,10,existing credits paid back duly till now,Car Used,1364,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,4,car or other,64,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,625,< 100 DM,< 1 year,4,male : married/widowed,guarantor,1,real estate,26,Bank,Own,1,unskilled - resident,1,,Yes,1
+A11,12,existing credits paid back duly till now,education,1200,Unknown,1 <= ... < 4 years,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,23,Bank,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,707,< 100 DM,1 <= ... < 4 years,4,male : single,,2,real estate,30,Bank,Own,2,skilled employee,1,,Yes,1
+A14,24,delay in paying off in the past,business,2978,Unknown,1 <= ... < 4 years,4,male : single,,4,real estate,32,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A14,15,existing credits paid back duly till now,Car New,4657,< 100 DM,1 <= ... < 4 years,3,male : single,,2,car or other,30,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,36,no credits taken/ all credits paid back duly,repairs,2613,< 100 DM,1 <= ... < 4 years,4,male : single,,2,car or other,27,,Own,2,skilled employee,1,,Yes,1
+A12,48,existing credits paid back duly till now,radio/television,10961,. >= 1000 DM,4 <= ... < 7 years,1,male : single,co-applicant,2,no property,27,Bank,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A11,12,existing credits paid back duly till now,furniture/equipment,7865,< 100 DM, >= 7 years,4,male : single,,4,no property,53,,For Free,1,management,1,registered under the customers name,Yes,2
+A14,9,existing credits paid back duly till now,radio/television,1478,< 100 DM,4 <= ... < 7 years,4,male : single,,2,car or other,22,,Own,1,skilled employee,1,,Yes,2
+A11,24,existing credits paid back duly till now,furniture/equipment,3149,< 100 DM,< 1 year,4,male : single,,1,no property,22,Bank,For Free,1,skilled employee,1,,Yes,1
+A13,36,existing credits paid back duly till now,radio/television,4210,< 100 DM,1 <= ... < 4 years,4,male : single,,2,car or other,26,,Own,1,skilled employee,1,,Yes,2
+A14,9,existing credits paid back duly till now,Car Used,2507,500 <= ... < 1000 DM, >= 7 years,2,male : single,,4,no property,51,,For Free,1,unskilled - resident,1,,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,2141,100 <= ... < 500 DM,4 <= ... < 7 years,3,male : single,,1,no property,35,,Own,1,skilled employee,1,,Yes,1
+A12,18,existing credits paid back duly till now,radio/television,866,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,guarantor,2,real estate,25,,Own,1,unskilled - resident,1,,Yes,1
+A14,4,critical account,radio/television,1544,< 100 DM,4 <= ... < 7 years,2,male : single,,1,real estate,42,,Own,3,unskilled - resident,2,,Yes,1
+A11,24,existing credits paid back duly till now,radio/television,1823,< 100 DM,unemployed,4,male : single,,2,car or other,30,Stores,Own,1,management,2,,Yes,2
+A12,6,existing credits paid back duly till now,Car Used,14555,Unknown,unemployed,1,male : single,,2,building society savings agreement/ life insurance,23,,Own,1,unemployed,1,registered under the customers name,Yes,2
+A12,21,existing credits paid back duly till now,business,2767,100 <= ... < 500 DM, >= 7 years,4,male : divorced/separated,,2,car or other,61,Bank,Rent,2,unskilled - resident,1,,Yes,2
+A14,12,critical account,radio/television,1291,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,building society savings agreement/ life insurance,35,,Own,2,skilled employee,1,,Yes,1
+A11,30,existing credits paid back duly till now,radio/television,2522,< 100 DM, >= 7 years,1,male : single,guarantor,3,building society savings agreement/ life insurance,39,,Own,1,skilled employee,2,,Yes,1
+A11,24,existing credits paid back duly till now,Car Used,915,Unknown, >= 7 years,4,female : divorced/separated/married,,2,car or other,29,Bank,Own,1,skilled employee,1,,Yes,2
+A14,6,existing credits paid back duly till now,radio/television,1595,< 100 DM,4 <= ... < 7 years,3,male : single,,2,building society savings agreement/ life insurance,51,,Own,1,skilled employee,2,,Yes,1
+A11,48,no credits taken/ all credits paid back duly,Car New,4605,< 100 DM, >= 7 years,3,male : single,,4,no property,24,,For Free,2,skilled employee,2,,Yes,2
+A14,12,critical account,business,1185,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,2,real estate,27,,Own,2,skilled employee,1,,Yes,1
+A14,12,all credits at this bank paid back duly,retraining,3447,500 <= ... < 1000 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,3,real estate,35,,Own,1,unskilled - resident,2,,Yes,1
+A14,24,existing credits paid back duly till now,business,1258,< 100 DM,4 <= ... < 7 years,4,male : single,,1,real estate,25,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,12,critical account,radio/television,717,< 100 DM, >= 7 years,4,male : single,,4,real estate,52,,Own,3,skilled employee,1,,Yes,1
+A14,6,no credits taken/ all credits paid back duly,Car Used,1204,100 <= ... < 500 DM,1 <= ... < 4 years,4,male : single,,1,no property,35,Bank,Rent,1,skilled employee,1,,No,1
+A13,24,existing credits paid back duly till now,furniture/equipment,1925,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,26,,Own,1,skilled employee,1,,Yes,1
+A14,18,existing credits paid back duly till now,radio/television,433,< 100 DM,unemployed,3,female : divorced/separated/married,co-applicant,4,real estate,22,,Rent,1,skilled employee,1,,Yes,2
+A11,6,critical account,Car Used,666,. >= 1000 DM,4 <= ... < 7 years,3,female : divorced/separated/married,,4,real estate,39,,Own,2,unskilled - resident,1,registered under the customers name,Yes,1
+A13,12,existing credits paid back duly till now,furniture/equipment,2251,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,2,car or other,46,,Own,1,unskilled - resident,1,,Yes,1
+A12,30,existing credits paid back duly till now,Car Used,2150,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,guarantor,2,no property,24,Bank,Own,1,skilled employee,1,,Yes,2
+A14,24,delay in paying off in the past,furniture/equipment,4151,100 <= ... < 500 DM,1 <= ... < 4 years,2,male : single,,3,building society savings agreement/ life insurance,35,,Own,2,skilled employee,1,,Yes,1
+A12,9,existing credits paid back duly till now,furniture/equipment,2030,Unknown,4 <= ... < 7 years,2,male : single,,1,car or other,24,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,60,delay in paying off in the past,radio/television,7418,Unknown,1 <= ... < 4 years,1,male : single,,1,real estate,27,,Own,1,unskilled - resident,1,,Yes,1
+A14,24,critical account,radio/television,2684,< 100 DM,1 <= ... < 4 years,4,male : single,,2,real estate,35,,Own,2,unskilled - resident,1,,Yes,1
+A11,12,all credits at this bank paid back duly,radio/television,2149,< 100 DM,1 <= ... < 4 years,4,male : divorced/separated,,1,no property,29,,For Free,1,skilled employee,1,,Yes,2
+A14,15,existing credits paid back duly till now,Car New,3812,100 <= ... < 500 DM,< 1 year,1,female : divorced/separated/married,,4,car or other,23,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,11,critical account,radio/television,1154,100 <= ... < 500 DM,unemployed,4,female : divorced/separated/married,,4,real estate,57,,Own,3,unskilled - resident,1,,Yes,1
+A11,12,existing credits paid back duly till now,furniture/equipment,1657,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,27,,Own,1,skilled employee,1,,Yes,1
+A11,24,existing credits paid back duly till now,radio/television,1603,< 100 DM, >= 7 years,4,female : divorced/separated/married,,4,car or other,55,,Own,1,skilled employee,1,,Yes,1
+A11,18,critical account,Car Used,5302,< 100 DM, >= 7 years,2,male : single,,4,no property,36,,For Free,3,management,1,registered under the customers name,Yes,1
+A14,12,critical account,education,2748,< 100 DM, >= 7 years,2,female : divorced/separated/married,,4,no property,57,Bank,For Free,3,unskilled - resident,1,,Yes,1
+A14,10,critical account,Car Used,1231,< 100 DM, >= 7 years,3,male : single,,4,real estate,32,,Own,2,unskilled - resident,2,,No,1
+A12,15,existing credits paid back duly till now,radio/television,802,< 100 DM, >= 7 years,4,male : single,,3,car or other,37,,Own,1,skilled employee,2,,Yes,2
+A14,36,critical account,business,6304,Unknown, >= 7 years,4,male : single,,4,real estate,36,,Own,2,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,radio/television,1533,< 100 DM,< 1 year,4,female : divorced/separated/married,,3,car or other,38,Stores,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,14,existing credits paid back duly till now,Car Used,8978,< 100 DM, >= 7 years,1,male : divorced/separated,,4,building society savings agreement/ life insurance,45,,Own,1,management,1,registered under the customers name,No,2
+A14,24,existing credits paid back duly till now,radio/television,999,Unknown, >= 7 years,4,male : single,,2,car or other,25,,Own,2,skilled employee,1,,Yes,1
+A14,18,existing credits paid back duly till now,Car Used,2662,Unknown,4 <= ... < 7 years,4,male : single,,3,building society savings agreement/ life insurance,32,,Own,1,skilled employee,1,,No,1
+A14,12,critical account,furniture/equipment,1402,500 <= ... < 1000 DM,4 <= ... < 7 years,3,female : divorced/separated/married,,4,car or other,37,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A12,48,all credits at this bank paid back duly,Car Used,12169,Unknown,unemployed,4,male : single,co-applicant,4,no property,36,,For Free,1,management,1,registered under the customers name,Yes,1
+A12,48,existing credits paid back duly till now,radio/television,3060,< 100 DM,4 <= ... < 7 years,4,male : single,,4,real estate,28,,Own,2,skilled employee,1,,Yes,2
+A11,30,existing credits paid back duly till now,repairs,11998,< 100 DM,< 1 year,1,male : divorced/separated,,1,no property,34,,Own,1,unskilled - resident,1,registered under the customers name,Yes,2
+A14,9,existing credits paid back duly till now,radio/television,2697,< 100 DM,1 <= ... < 4 years,1,male : single,,2,real estate,32,,Own,1,skilled employee,2,,Yes,1
+A14,18,critical account,radio/television,2404,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,car or other,26,,Own,2,skilled employee,1,,Yes,1
+A11,12,existing credits paid back duly till now,furniture/equipment,1262,Unknown, >= 7 years,2,male : divorced/separated,,4,building society savings agreement/ life insurance,49,,Own,1,unskilled - resident,1,registered under the customers name,Yes,1
+A14,6,existing credits paid back duly till now,furniture/equipment,4611,< 100 DM,< 1 year,1,female : divorced/separated/married,,4,building society savings agreement/ life insurance,32,,Own,1,skilled employee,1,,Yes,2
+A14,24,existing credits paid back duly till now,radio/television,1901,100 <= ... < 500 DM,1 <= ... < 4 years,4,male : single,,4,car or other,29,,Rent,1,management,1,registered under the customers name,Yes,1
+A14,15,critical account,Car New,3368,. >= 1000 DM, >= 7 years,3,male : single,,4,no property,23,,Rent,2,skilled employee,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,furniture/equipment,1574,< 100 DM,1 <= ... < 4 years,4,male : single,,2,real estate,50,,Own,1,skilled employee,1,,Yes,1
+A13,18,all credits at this bank paid back duly,radio/television,1445,Unknown,4 <= ... < 7 years,4,male : single,,4,car or other,49,Bank,Own,1,unskilled - resident,1,,Yes,1
+A14,15,critical account,furniture/equipment,1520,Unknown, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,63,,Own,1,skilled employee,1,,Yes,1
+A12,24,critical account,Car Used,3878,100 <= ... < 500 DM,< 1 year,4,male : divorced/separated,,2,car or other,37,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,47,existing credits paid back duly till now,Car Used,10722,< 100 DM,< 1 year,1,female : divorced/separated/married,,1,real estate,35,,Own,1,unskilled - resident,1,registered under the customers name,Yes,1
+A11,48,existing credits paid back duly till now,Car New,4788,< 100 DM,4 <= ... < 7 years,4,male : single,,3,building society savings agreement/ life insurance,26,,Own,1,skilled employee,2,,Yes,1
+A12,48,delay in paying off in the past,Car New0,7582,100 <= ... < 500 DM,unemployed,2,male : single,,4,no property,31,,For Free,1,management,1,registered under the customers name,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,1092,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,guarantor,4,real estate,49,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,24,delay in paying off in the past,radio/television,1024,< 100 DM,< 1 year,4,male : married/widowed,,4,real estate,48,Stores,Own,1,skilled employee,1,,Yes,2
+A14,12,existing credits paid back duly till now,business,1076,< 100 DM,1 <= ... < 4 years,2,male : married/widowed,,2,real estate,26,,Own,1,skilled employee,1,registered under the customers name,No,1
+A12,36,existing credits paid back duly till now,Car New,9398,< 100 DM,< 1 year,1,male : married/widowed,,4,car or other,28,,Rent,1,management,1,registered under the customers name,Yes,2
+A11,24,critical account,Car New,6419,< 100 DM, >= 7 years,2,female : divorced/separated/married,,4,no property,44,,For Free,2,management,2,registered under the customers name,Yes,1
+A13,42,critical account,Car New,4796,< 100 DM, >= 7 years,4,male : single,,4,no property,56,,For Free,1,skilled employee,1,,Yes,1
+A14,48,critical account,business,7629,Unknown, >= 7 years,4,male : divorced/separated,,2,car or other,46,Bank,Own,2,management,2,,Yes,1
+A12,48,existing credits paid back duly till now,furniture/equipment,9960,< 100 DM,< 1 year,1,female : divorced/separated/married,,2,car or other,26,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,12,existing credits paid back duly till now,Car New,4675,Unknown,< 1 year,1,female : divorced/separated/married,,4,car or other,20,,Rent,1,skilled employee,1,,Yes,1
+A14,10,existing credits paid back duly till now,Car Used,1287,Unknown, >= 7 years,4,male : single,co-applicant,2,building society savings agreement/ life insurance,45,,Own,1,unskilled - resident,1,,No,1
+A14,18,existing credits paid back duly till now,furniture/equipment,2515,< 100 DM,1 <= ... < 4 years,3,male : single,,4,real estate,43,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,21,critical account,furniture/equipment,2745,. >= 1000 DM,4 <= ... < 7 years,3,male : single,,2,car or other,32,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,6,existing credits paid back duly till now,Car Used,672,< 100 DM,unemployed,1,female : divorced/separated/married,,4,real estate,54,,Own,1,unemployed,1,registered under the customers name,Yes,1
+A12,36,no credits taken/ all credits paid back duly,radio/television,3804,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,1,car or other,42,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A13,24,critical account,Car Used,1344,Unknown,4 <= ... < 7 years,4,male : single,,2,real estate,37,Bank,Own,2,unskilled - resident,2,,Yes,2
+A11,10,critical account,Car Used,1038,< 100 DM,4 <= ... < 7 years,4,male : single,co-applicant,3,building society savings agreement/ life insurance,49,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,48,critical account,Car Used,10127,500 <= ... < 1000 DM,1 <= ... < 4 years,2,male : single,,2,no property,44,Bank,For Free,1,skilled employee,1,,Yes,2
+A14,6,existing credits paid back duly till now,furniture/equipment,1543,. >= 1000 DM,1 <= ... < 4 years,4,male : divorced/separated,,2,real estate,33,,Own,1,skilled employee,1,,Yes,1
+A14,30,existing credits paid back duly till now,Car New,4811,Unknown,4 <= ... < 7 years,2,female : divorced/separated/married,,4,building society savings agreement/ life insurance,24,Stores,Rent,1,unskilled - resident,1,,Yes,1
+A11,12,existing credits paid back duly till now,radio/television,727,100 <= ... < 500 DM,< 1 year,4,male : married/widowed,,3,no property,33,,Own,1,unskilled - resident,1,registered under the customers name,Yes,2
+A12,8,existing credits paid back duly till now,furniture/equipment,1237,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,4,real estate,24,,Own,1,skilled employee,1,,Yes,2
+A12,9,existing credits paid back duly till now,Car Used,276,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,4,real estate,22,,Rent,1,unskilled - resident,1,,Yes,1
+A12,48,existing credits paid back duly till now,Car New0,5381,Unknown,unemployed,3,male : single,,4,no property,40,Bank,For Free,1,unemployed,1,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,furniture/equipment,5511,100 <= ... < 500 DM,1 <= ... < 4 years,4,male : single,,1,car or other,25,Stores,Own,1,skilled employee,1,,Yes,1
+A13,24,existing credits paid back duly till now,furniture/equipment,3749,< 100 DM,< 1 year,2,female : divorced/separated/married,,4,car or other,26,,Own,1,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,Car Used,685,< 100 DM,4 <= ... < 7 years,2,male : married/widowed,,3,car or other,25,Bank,Own,1,unskilled - resident,1,,Yes,2
+A13,4,existing credits paid back duly till now,Car Used,1494,Unknown,< 1 year,1,male : single,,2,real estate,29,,Own,1,unskilled - resident,2,,No,1
+A11,36,all credits at this bank paid back duly,furniture/equipment,2746,< 100 DM, >= 7 years,4,male : single,,4,car or other,31,Bank,Own,1,skilled employee,1,,Yes,2
+A11,12,existing credits paid back duly till now,furniture/equipment,708,< 100 DM,1 <= ... < 4 years,2,male : single,guarantor,3,building society savings agreement/ life insurance,38,,Own,1,unskilled - resident,2,,Yes,1
+A12,24,existing credits paid back duly till now,furniture/equipment,4351,Unknown,1 <= ... < 4 years,1,female : divorced/separated/married,,4,building society savings agreement/ life insurance,48,,Own,1,unskilled - resident,1,registered under the customers name,Yes,1
+A14,12,critical account,education,701,< 100 DM,1 <= ... < 4 years,4,male : single,,2,car or other,32,,Own,2,skilled employee,1,,Yes,1
+A11,15,delay in paying off in the past,furniture/equipment,3643,< 100 DM, >= 7 years,1,female : divorced/separated/married,,4,building society savings agreement/ life insurance,27,,Own,2,unskilled - resident,1,,Yes,1
+A12,30,critical account,Car Used,4249,< 100 DM,unemployed,4,male : married/widowed,,2,car or other,28,,Own,2,management,1,,Yes,2
+A11,24,existing credits paid back duly till now,radio/television,1938,< 100 DM,< 1 year,4,male : divorced/separated,,3,building society savings agreement/ life insurance,32,,Own,1,skilled employee,1,,Yes,2
+A11,24,existing credits paid back duly till now,Car New,2910,< 100 DM,4 <= ... < 7 years,2,male : single,,1,no property,34,,For Free,1,management,1,registered under the customers name,Yes,1
+A11,18,existing credits paid back duly till now,furniture/equipment,2659,. >= 1000 DM,1 <= ... < 4 years,4,male : single,,2,car or other,28,,Own,1,skilled employee,1,,Yes,1
+A14,18,critical account,Car Used,1028,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,3,real estate,36,,Own,2,skilled employee,1,,Yes,1
+A11,8,critical account,Car Used,3398,< 100 DM,4 <= ... < 7 years,1,male : single,,4,real estate,39,,Own,2,unskilled - resident,1,,No,1
+A14,12,critical account,furniture/equipment,5801,Unknown, >= 7 years,2,male : single,,4,building society savings agreement/ life insurance,49,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,Car Used,1525,. >= 1000 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,3,car or other,34,,Own,1,skilled employee,2,registered under the customers name,Yes,1
+A13,36,existing credits paid back duly till now,radio/television,4473,< 100 DM, >= 7 years,4,male : single,,2,car or other,31,,Own,1,skilled employee,1,,Yes,1
+A12,6,existing credits paid back duly till now,radio/television,1068,< 100 DM, >= 7 years,4,male : single,,4,car or other,28,,Own,1,skilled employee,2,,Yes,1
+A11,24,critical account,Car New,6615,< 100 DM,unemployed,2,male : single,,4,no property,75,,For Free,2,management,1,registered under the customers name,Yes,1
+A14,18,critical account,education,1864,100 <= ... < 500 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,real estate,30,,Own,2,skilled employee,1,,Yes,2
+A12,60,existing credits paid back duly till now,Car Used,7408,100 <= ... < 500 DM,< 1 year,4,female : divorced/separated/married,,2,building society savings agreement/ life insurance,24,,Own,1,management,1,,Yes,2
+A14,48,critical account,Car New,11590,100 <= ... < 500 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,4,car or other,24,Bank,Rent,2,unskilled - resident,1,,Yes,2
+A11,24,no credits taken/ all credits paid back duly,furniture/equipment,4110,< 100 DM, >= 7 years,3,male : single,,4,no property,23,Bank,Rent,2,skilled employee,2,,Yes,2
+A11,6,critical account,furniture/equipment,3384,< 100 DM,1 <= ... < 4 years,1,male : divorced/separated,,4,real estate,44,,Rent,1,management,1,registered under the customers name,Yes,2
+A12,13,existing credits paid back duly till now,radio/television,2101,< 100 DM,< 1 year,2,female : divorced/separated/married,guarantor,4,building society savings agreement/ life insurance,23,,Own,1,unskilled - resident,1,,Yes,1
+A11,15,existing credits paid back duly till now,domestic appliances,1275,Unknown,1 <= ... < 4 years,4,female : divorced/separated/married,,2,car or other,24,,Rent,1,skilled employee,1,,Yes,2
+A11,24,existing credits paid back duly till now,furniture/equipment,4169,< 100 DM,1 <= ... < 4 years,4,male : single,,4,building society savings agreement/ life insurance,28,,Own,1,skilled employee,1,,Yes,1
+A12,10,existing credits paid back duly till now,furniture/equipment,1521,< 100 DM,1 <= ... < 4 years,4,male : divorced/separated,,2,car or other,31,,Own,1,unskilled - resident,1,,Yes,1
+A12,24,critical account,education,5743,< 100 DM,< 1 year,2,female : divorced/separated/married,,4,no property,24,,For Free,2,skilled employee,1,registered under the customers name,Yes,1
+A11,21,existing credits paid back duly till now,furniture/equipment,3599,< 100 DM,4 <= ... < 7 years,1,female : divorced/separated/married,,4,car or other,26,,Rent,1,unskilled - resident,1,,Yes,1
+A12,18,existing credits paid back duly till now,radio/television,3213,500 <= ... < 1000 DM,< 1 year,1,male : married/widowed,,3,real estate,25,,Rent,1,skilled employee,1,,Yes,1
+A12,18,existing credits paid back duly till now,business,4439,< 100 DM, >= 7 years,1,male : single,co-applicant,1,real estate,33,Bank,Own,1,management,1,registered under the customers name,Yes,1
+A13,10,existing credits paid back duly till now,Car Used,3949,< 100 DM,< 1 year,1,male : single,guarantor,1,building society savings agreement/ life insurance,37,,Own,1,unskilled - resident,2,,Yes,1
+A14,15,critical account,radio/television,1459,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,car or other,43,,Own,1,unskilled - resident,1,,Yes,1
+A12,13,critical account,radio/television,882,< 100 DM,< 1 year,4,male : single,guarantor,4,real estate,23,,Own,2,skilled employee,1,,Yes,1
+A12,24,existing credits paid back duly till now,radio/television,3758,500 <= ... < 1000 DM,unemployed,1,female : divorced/separated/married,,4,no property,23,,Rent,1,unemployed,1,,Yes,1
+A14,6,delay in paying off in the past,business,1743,100 <= ... < 500 DM,1 <= ... < 4 years,1,male : single,,2,real estate,34,,Own,2,unskilled - resident,1,,Yes,1
+A12,9,critical account,education,1136,. >= 1000 DM, >= 7 years,4,male : single,,3,no property,32,,For Free,2,skilled employee,2,,Yes,2
+A14,9,existing credits paid back duly till now,domestic appliances,1236,< 100 DM,< 1 year,1,female : divorced/separated/married,,4,real estate,23,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A12,9,existing credits paid back duly till now,furniture/equipment,959,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,2,car or other,29,,Own,1,skilled employee,1,,No,2
+A14,18,critical account,Car New,3229,Unknown,unemployed,2,male : single,,4,no property,38,,Own,1,management,1,registered under the customers name,Yes,1
+A11,12,no credits taken/ all credits paid back duly,radio/television,6199,< 100 DM,1 <= ... < 4 years,4,male : single,,2,building society savings agreement/ life insurance,28,,Rent,2,skilled employee,1,registered under the customers name,Yes,2
+A14,10,existing credits paid back duly till now,education,727,500 <= ... < 1000 DM, >= 7 years,4,male : single,,4,no property,46,,For Free,1,skilled employee,1,registered under the customers name,Yes,1
+A12,24,existing credits paid back duly till now,Car Used,1246,< 100 DM,< 1 year,4,male : single,,2,real estate,23,Stores,Own,1,unskilled - resident,1,,Yes,2
+A14,12,critical account,radio/television,2331,Unknown, >= 7 years,1,male : single,co-applicant,4,real estate,49,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,36,delay in paying off in the past,radio/television,4463,< 100 DM,1 <= ... < 4 years,4,male : single,,2,car or other,26,,Own,2,management,1,registered under the customers name,Yes,2
+A14,12,existing credits paid back duly till now,radio/television,776,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,2,real estate,28,,Own,1,skilled employee,1,,Yes,1
+A11,30,existing credits paid back duly till now,furniture/equipment,2406,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,4,real estate,23,,Rent,1,skilled employee,1,,Yes,2
+A12,18,existing credits paid back duly till now,education,1239,Unknown,1 <= ... < 4 years,4,male : single,,4,no property,61,,For Free,1,skilled employee,1,,Yes,1
+A13,12,existing credits paid back duly till now,radio/television,3399,Unknown, >= 7 years,2,male : single,,3,car or other,37,,Own,1,management,1,,Yes,1
+A13,12,delay in paying off in the past,Car Used,2247,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,car or other,36,Stores,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,6,existing credits paid back duly till now,furniture/equipment,1766,< 100 DM,1 <= ... < 4 years,1,male : married/widowed,,2,building society savings agreement/ life insurance,21,,Rent,1,skilled employee,1,,Yes,1
+A11,18,existing credits paid back duly till now,furniture/equipment,2473,< 100 DM,unemployed,4,male : single,,1,car or other,25,,Own,1,unemployed,1,,Yes,2
+A14,12,existing credits paid back duly till now,business,1542,< 100 DM,4 <= ... < 7 years,2,male : single,,4,car or other,36,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,18,critical account,Car New,3850,< 100 DM,4 <= ... < 7 years,3,male : single,,1,car or other,27,,Own,2,skilled employee,1,,Yes,1
+A11,18,existing credits paid back duly till now,furniture/equipment,3650,< 100 DM,< 1 year,1,female : divorced/separated/married,,4,car or other,22,,Rent,1,skilled employee,1,,Yes,1
+A11,36,existing credits paid back duly till now,furniture/equipment,3446,< 100 DM, >= 7 years,4,male : single,,2,car or other,42,,Own,1,skilled employee,2,,Yes,2
+A12,18,existing credits paid back duly till now,furniture/equipment,3001,< 100 DM,4 <= ... < 7 years,2,female : divorced/separated/married,,4,real estate,40,,Rent,1,skilled employee,1,,Yes,1
+A14,36,existing credits paid back duly till now,Car Used,3079,Unknown,1 <= ... < 4 years,4,male : single,,4,real estate,36,,Own,1,skilled employee,1,,Yes,1
+A14,18,critical account,radio/television,6070,< 100 DM, >= 7 years,3,male : single,,4,car or other,33,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,10,critical account,furniture/equipment,2146,< 100 DM,< 1 year,1,female : divorced/separated/married,,3,real estate,23,,Rent,2,skilled employee,1,,Yes,1
+A14,60,critical account,Car Used,13756,Unknown, >= 7 years,2,male : single,,4,no property,63,Bank,For Free,1,management,1,registered under the customers name,Yes,1
+A12,60,all credits at this bank paid back duly,Car New0,14782,100 <= ... < 500 DM, >= 7 years,3,female : divorced/separated/married,,4,no property,60,Bank,For Free,2,management,1,registered under the customers name,Yes,2
+A11,48,all credits at this bank paid back duly,business,7685,< 100 DM,4 <= ... < 7 years,2,female : divorced/separated/married,guarantor,4,car or other,37,,Rent,1,skilled employee,1,,Yes,2
+A14,18,delay in paying off in the past,radio/television,2320,< 100 DM,unemployed,2,male : married/widowed,,3,real estate,34,,Own,2,skilled employee,1,,Yes,1
+A14,7,delay in paying off in the past,radio/television,846,Unknown, >= 7 years,3,male : single,,4,no property,36,,For Free,1,skilled employee,1,,Yes,1
+A12,36,existing credits paid back duly till now,Car Used,14318,< 100 DM, >= 7 years,4,male : single,,2,no property,57,,For Free,1,management,1,registered under the customers name,Yes,2
+A14,6,critical account,Car Used,362,100 <= ... < 500 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,car or other,52,,Own,2,unskilled - resident,1,,Yes,1
+A11,20,existing credits paid back duly till now,furniture/equipment,2212,Unknown,4 <= ... < 7 years,4,male : single,,4,car or other,39,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,18,existing credits paid back duly till now,Car New,12976,< 100 DM,unemployed,3,female : divorced/separated/married,,4,no property,38,,For Free,1,management,1,registered under the customers name,Yes,2
+A14,22,existing credits paid back duly till now,Car Used,1283,Unknown,4 <= ... < 7 years,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,25,,Rent,1,skilled employee,1,,Yes,1
+A13,12,existing credits paid back duly till now,Car Used,1330,< 100 DM,< 1 year,4,male : single,,1,real estate,26,,Own,1,skilled employee,1,,Yes,1
+A14,30,delay in paying off in the past,business,4272,100 <= ... < 500 DM,1 <= ... < 4 years,2,male : single,,2,building society savings agreement/ life insurance,26,,Own,2,unskilled - resident,1,,Yes,1
+A14,18,critical account,radio/television,2238,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,1,car or other,25,,Own,2,skilled employee,1,,Yes,1
+A14,18,existing credits paid back duly till now,radio/television,1126,Unknown,< 1 year,4,female : divorced/separated/married,,2,real estate,21,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A12,18,critical account,furniture/equipment,7374,< 100 DM,unemployed,4,male : single,,4,building society savings agreement/ life insurance,40,Stores,Own,2,management,1,registered under the customers name,Yes,1
+A12,15,critical account,business,2326,500 <= ... < 1000 DM,1 <= ... < 4 years,2,male : single,,4,car or other,27,Bank,Own,1,skilled employee,1,,Yes,1
+A14,9,existing credits paid back duly till now,business,1449,< 100 DM,4 <= ... < 7 years,3,female : divorced/separated/married,,2,car or other,27,,Own,2,skilled employee,1,,Yes,1
+A14,18,existing credits paid back duly till now,Car Used,1820,< 100 DM,1 <= ... < 4 years,2,male : married/widowed,,2,building society savings agreement/ life insurance,30,,Own,1,management,1,registered under the customers name,Yes,1
+A12,12,existing credits paid back duly till now,furniture/equipment,983,. >= 1000 DM,< 1 year,1,female : divorced/separated/married,,4,real estate,19,,Rent,1,unskilled - resident,1,,Yes,1
+A11,36,existing credits paid back duly till now,Car Used,3249,< 100 DM,4 <= ... < 7 years,2,male : single,,4,no property,39,Bank,For Free,1,management,2,registered under the customers name,Yes,1
+A11,6,critical account,radio/television,1957,< 100 DM,4 <= ... < 7 years,1,female : divorced/separated/married,,4,car or other,31,,Own,1,skilled employee,1,,Yes,1
+A14,9,critical account,furniture/equipment,2406,< 100 DM,unemployed,2,male : single,,3,car or other,31,,Own,1,management,1,,Yes,1
+A12,39,delay in paying off in the past,education,11760,100 <= ... < 500 DM,4 <= ... < 7 years,2,male : single,,3,no property,32,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,furniture/equipment,2578,< 100 DM,unemployed,3,female : divorced/separated/married,,4,no property,55,,For Free,1,management,1,,Yes,1
+A11,36,critical account,furniture/equipment,2348,< 100 DM,1 <= ... < 4 years,3,male : married/widowed,,2,building society savings agreement/ life insurance,46,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,12,existing credits paid back duly till now,Car Used,1223,< 100 DM, >= 7 years,1,male : divorced/separated,,1,real estate,46,,Rent,2,skilled employee,1,,Yes,2
+A14,24,critical account,radio/television,1516,. >= 1000 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,1,real estate,43,,Own,2,unskilled - resident,1,,Yes,1
+A14,18,existing credits paid back duly till now,radio/television,1473,< 100 DM,< 1 year,3,male : married/widowed,,4,real estate,39,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,18,critical account,business,1887,Unknown,1 <= ... < 4 years,4,male : married/widowed,,4,real estate,28,Bank,Own,2,skilled employee,1,,Yes,1
+A14,24,delay in paying off in the past,business,8648,< 100 DM,< 1 year,2,male : single,,2,car or other,27,Bank,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A14,14,delay in paying off in the past,Car Used,802,< 100 DM,1 <= ... < 4 years,4,male : single,,2,car or other,27,,Own,2,unskilled - resident,1,,Yes,1
+A12,18,delay in paying off in the past,Car Used,2899,Unknown, >= 7 years,4,male : single,,4,car or other,43,,Own,1,skilled employee,2,,Yes,1
+A12,24,existing credits paid back duly till now,radio/television,2039,< 100 DM,< 1 year,1,male : married/widowed,,1,building society savings agreement/ life insurance,22,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,24,critical account,Car New,2197,Unknown,4 <= ... < 7 years,4,male : single,,4,car or other,43,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A11,15,existing credits paid back duly till now,radio/television,1053,< 100 DM,< 1 year,4,male : married/widowed,,2,real estate,27,,Own,1,skilled employee,1,,No,1
+A14,24,existing credits paid back duly till now,radio/television,3235,500 <= ... < 1000 DM, >= 7 years,3,male : divorced/separated,,2,car or other,26,,Own,1,management,1,registered under the customers name,Yes,1
+A13,12,critical account,Car Used,939,500 <= ... < 1000 DM,4 <= ... < 7 years,4,male : married/widowed,,2,real estate,28,,Own,3,skilled employee,1,registered under the customers name,Yes,2
+A12,24,existing credits paid back duly till now,radio/television,1967,< 100 DM, >= 7 years,4,female : divorced/separated/married,,4,car or other,20,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,33,critical account,Car New,7253,< 100 DM,4 <= ... < 7 years,3,male : single,,2,car or other,35,,Own,2,management,1,registered under the customers name,Yes,1
+A14,12,critical account,business,2292,< 100 DM,unemployed,4,male : single,,2,car or other,42,Stores,Own,2,management,1,registered under the customers name,Yes,2
+A14,10,existing credits paid back duly till now,Car Used,1597,500 <= ... < 1000 DM,1 <= ... < 4 years,3,male : single,,2,no property,40,,Rent,1,unskilled - resident,2,,No,1
+A11,24,existing credits paid back duly till now,Car Used,1381,Unknown,1 <= ... < 4 years,4,female : divorced/separated/married,,2,building society savings agreement/ life insurance,35,,Own,1,skilled employee,1,,Yes,2
+A14,36,critical account,Car New,5842,< 100 DM, >= 7 years,2,male : single,,2,building society savings agreement/ life insurance,35,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,Car Used,2579,< 100 DM,< 1 year,4,male : single,,1,real estate,33,,Own,1,unskilled - resident,2,,Yes,2
+A11,18,delay in paying off in the past,education,8471,Unknown,1 <= ... < 4 years,1,female : divorced/separated/married,,2,car or other,23,,Rent,2,skilled employee,1,registered under the customers name,Yes,1
+A14,21,existing credits paid back duly till now,Car Used,2782,500 <= ... < 1000 DM,4 <= ... < 7 years,1,female : divorced/separated/married,,2,car or other,31,Bank,Own,1,management,1,,Yes,1
+A12,18,existing credits paid back duly till now,Car Used,1042,Unknown,1 <= ... < 4 years,4,female : divorced/separated/married,,2,building society savings agreement/ life insurance,33,,Own,1,skilled employee,1,,Yes,2
+A14,15,existing credits paid back duly till now,Car Used,3186,. >= 1000 DM,4 <= ... < 7 years,2,female : divorced/separated/married,,3,car or other,20,,Rent,1,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,Car New,2028,Unknown,1 <= ... < 4 years,4,male : single,,2,car or other,30,,Own,1,skilled employee,1,,Yes,1
+A12,12,critical account,Car Used,958,< 100 DM,4 <= ... < 7 years,2,male : single,,3,real estate,47,,Own,2,unskilled - resident,2,,Yes,1
+A14,21,delay in paying off in the past,furniture/equipment,1591,100 <= ... < 500 DM,4 <= ... < 7 years,4,male : single,,3,real estate,34,,Own,2,management,1,,Yes,1
+A12,12,existing credits paid back duly till now,furniture/equipment,2762,Unknown, >= 7 years,1,female : divorced/separated/married,,2,building society savings agreement/ life insurance,25,Bank,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A12,18,existing credits paid back duly till now,Car New,2779,< 100 DM,1 <= ... < 4 years,1,male : married/widowed,,3,car or other,21,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A14,28,critical account,radio/television,2743,< 100 DM, >= 7 years,4,male : single,,2,car or other,29,,Own,2,skilled employee,1,,Yes,1
+A14,18,critical account,radio/television,1149,. >= 1000 DM,1 <= ... < 4 years,4,male : single,,3,real estate,46,,Own,2,skilled employee,1,,Yes,1
+A14,9,existing credits paid back duly till now,furniture/equipment,1313,< 100 DM, >= 7 years,1,male : single,,4,car or other,20,,Own,1,skilled employee,1,,Yes,1
+A11,18,critical account,repairs,1190,< 100 DM,unemployed,2,female : divorced/separated/married,,4,no property,55,,For Free,3,unemployed,2,,Yes,2
+A14,5,existing credits paid back duly till now,business,3448,< 100 DM,4 <= ... < 7 years,1,male : single,,4,real estate,74,,Own,1,unskilled - resident,1,,Yes,1
+A12,24,existing credits paid back duly till now,Car New0,11328,< 100 DM,1 <= ... < 4 years,2,male : single,co-applicant,3,car or other,29,Bank,Own,2,management,1,registered under the customers name,Yes,2
+A11,6,critical account,furniture/equipment,1872,< 100 DM,unemployed,4,male : single,,4,no property,36,,For Free,3,management,1,registered under the customers name,Yes,1
+A14,24,critical account,repairs,2058,< 100 DM,1 <= ... < 4 years,4,male : divorced/separated,,2,real estate,33,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,9,existing credits paid back duly till now,furniture/equipment,2136,< 100 DM,1 <= ... < 4 years,3,male : single,,2,real estate,25,,Own,1,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,1484,Unknown,1 <= ... < 4 years,2,male : married/widowed,,1,real estate,25,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,6,existing credits paid back duly till now,repairs,660,500 <= ... < 1000 DM,4 <= ... < 7 years,2,male : married/widowed,,4,real estate,23,,Rent,1,unskilled - resident,1,,Yes,1
+A14,24,critical account,Car Used,1287,. >= 1000 DM, >= 7 years,4,female : divorced/separated/married,,4,real estate,37,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,42,critical account,repairs,3394,< 100 DM,unemployed,4,male : single,co-applicant,4,car or other,65,,Own,2,unemployed,1,,Yes,1
+A13,12,all credits at this bank paid back duly,business,609,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,real estate,26,,Own,1,unemployed,1,,Yes,2
+A14,12,existing credits paid back duly till now,Car Used,1884,< 100 DM, >= 7 years,4,male : single,,4,car or other,39,,Own,1,management,1,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,furniture/equipment,1620,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,co-applicant,3,building society savings agreement/ life insurance,30,,Own,1,skilled employee,1,,Yes,1
+A12,20,delay in paying off in the past,Car New0,2629,< 100 DM,1 <= ... < 4 years,2,male : single,,3,car or other,29,Bank,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,education,719,< 100 DM, >= 7 years,4,male : single,,4,car or other,41,Bank,Own,1,unskilled - resident,2,,Yes,2
+A12,48,critical account,furniture/equipment,5096,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,3,car or other,30,,Own,1,management,1,registered under the customers name,Yes,2
+A14,9,critical account,education,1244,Unknown, >= 7 years,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,41,,Rent,2,unskilled - resident,1,,Yes,1
+A11,36,existing credits paid back duly till now,Car Used,1842,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,car or other,34,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A12,7,existing credits paid back duly till now,radio/television,2576,< 100 DM,1 <= ... < 4 years,2,male : single,guarantor,2,real estate,35,,Own,1,skilled employee,1,,Yes,1
+A13,12,existing credits paid back duly till now,furniture/equipment,1424,Unknown, >= 7 years,3,female : divorced/separated/married,,4,real estate,55,,Own,1,management,1,registered under the customers name,Yes,1
+A12,15,delay in paying off in the past,repairs,1512,. >= 1000 DM,1 <= ... < 4 years,3,male : married/widowed,,3,building society savings agreement/ life insurance,61,Stores,Own,2,skilled employee,1,,Yes,2
+A14,36,critical account,Car New,11054,Unknown,1 <= ... < 4 years,4,male : single,,2,car or other,30,,Own,1,management,1,registered under the customers name,Yes,1
+A14,6,existing credits paid back duly till now,radio/television,518,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,1,real estate,29,,Own,1,skilled employee,1,,Yes,1
+A14,12,no credits taken/ all credits paid back duly,furniture/equipment,2759,< 100 DM, >= 7 years,2,male : single,,4,building society savings agreement/ life insurance,34,,Own,2,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,Car New,2670,< 100 DM, >= 7 years,4,male : single,,4,car or other,35,,Own,1,management,1,registered under the customers name,Yes,1
+A11,24,existing credits paid back duly till now,Car Used,4817,< 100 DM,4 <= ... < 7 years,2,male : single,co-applicant,3,building society savings agreement/ life insurance,31,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,24,existing credits paid back duly till now,Car New,2679,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,no property,29,,Own,1,management,1,registered under the customers name,Yes,1
+A11,11,critical account,Car Used,3905,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,36,,Rent,2,skilled employee,2,,Yes,1
+A11,12,existing credits paid back duly till now,Car New,3386,< 100 DM, >= 7 years,3,male : single,,4,no property,35,,For Free,1,skilled employee,1,registered under the customers name,Yes,2
+A11,6,existing credits paid back duly till now,domestic appliances,343,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,real estate,27,,Own,1,skilled employee,1,,Yes,1
+A14,18,existing credits paid back duly till now,radio/television,4594,< 100 DM,< 1 year,3,male : single,,2,car or other,32,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,36,existing credits paid back duly till now,furniture/equipment,3620,< 100 DM,1 <= ... < 4 years,1,male : single,guarantor,2,building society savings agreement/ life insurance,37,,Own,1,skilled employee,2,,Yes,1
+A11,15,existing credits paid back duly till now,Car Used,1721,< 100 DM,< 1 year,2,male : single,,3,real estate,36,,Own,1,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,furniture/equipment,3017,< 100 DM,< 1 year,3,female : divorced/separated/married,,1,real estate,34,,Rent,1,management,1,,Yes,1
+A12,12,existing credits paid back duly till now,retraining,754,Unknown, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,38,,Own,2,skilled employee,1,,Yes,1
+A14,18,existing credits paid back duly till now,business,1950,< 100 DM,4 <= ... < 7 years,4,male : single,,1,car or other,34,Stores,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,24,existing credits paid back duly till now,Car New,2924,< 100 DM,1 <= ... < 4 years,3,male : single,guarantor,4,no property,63,Bank,Own,1,skilled employee,2,registered under the customers name,Yes,1
+A11,24,delay in paying off in the past,radio/television,1659,< 100 DM,< 1 year,4,female : divorced/separated/married,,2,car or other,29,,Rent,1,unskilled - resident,1,registered under the customers name,Yes,2
+A14,48,delay in paying off in the past,radio/television,7238,Unknown, >= 7 years,3,male : single,,3,car or other,32,Bank,Own,2,skilled employee,2,,Yes,1
+A14,33,delay in paying off in the past,business,2764,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,car or other,26,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,24,delay in paying off in the past,Car New,4679,< 100 DM,4 <= ... < 7 years,3,male : single,,3,car or other,35,,Own,2,unskilled - resident,1,registered under the customers name,Yes,1
+A12,24,existing credits paid back duly till now,radio/television,3092,100 <= ... < 500 DM,< 1 year,3,male : married/widowed,,2,car or other,22,,Rent,1,skilled employee,1,registered under the customers name,Yes,2
+A11,6,existing credits paid back duly till now,education,448,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,23,,Own,1,skilled employee,1,,Yes,2
+A11,9,existing credits paid back duly till now,Car Used,654,< 100 DM,1 <= ... < 4 years,4,male : single,,3,car or other,28,,Own,1,unskilled - resident,1,,Yes,2
+A14,6,existing credits paid back duly till now,retraining,1238,Unknown,unemployed,4,male : single,,4,building society savings agreement/ life insurance,36,,Own,1,management,2,registered under the customers name,Yes,1
+A12,18,critical account,radio/television,1245,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,2,car or other,33,,Own,1,skilled employee,1,,Yes,2
+A11,18,no credits taken/ all credits paid back duly,furniture/equipment,3114,< 100 DM,< 1 year,1,female : divorced/separated/married,,4,building society savings agreement/ life insurance,26,,Rent,1,skilled employee,1,,Yes,2
+A14,39,existing credits paid back duly till now,Car New,2569,500 <= ... < 1000 DM,1 <= ... < 4 years,4,male : single,,4,car or other,24,,Own,1,skilled employee,1,,Yes,1
+A13,24,existing credits paid back duly till now,radio/television,5152,< 100 DM,4 <= ... < 7 years,4,male : single,,2,car or other,25,Bank,Own,1,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,business,1037,100 <= ... < 500 DM,4 <= ... < 7 years,3,male : single,,4,real estate,39,,Own,1,unskilled - resident,1,,Yes,1
+A11,15,critical account,furniture/equipment,1478,< 100 DM, >= 7 years,4,male : single,,4,car or other,44,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A12,12,critical account,radio/television,3573,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,1,real estate,23,,Own,1,unskilled - resident,1,,Yes,1
+A12,24,existing credits paid back duly till now,Car Used,1201,< 100 DM,< 1 year,4,male : single,,1,building society savings agreement/ life insurance,26,,Own,1,skilled employee,1,,Yes,1
+A11,30,existing credits paid back duly till now,furniture/equipment,3622,. >= 1000 DM, >= 7 years,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,57,,Rent,2,skilled employee,1,registered under the customers name,Yes,1
+A14,15,delay in paying off in the past,furniture/equipment,960,. >= 1000 DM,4 <= ... < 7 years,3,female : divorced/separated/married,,2,building society savings agreement/ life insurance,30,,Own,2,skilled employee,1,,Yes,1
+A14,12,critical account,Car Used,1163,500 <= ... < 1000 DM,1 <= ... < 4 years,4,male : single,,4,real estate,44,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,6,delay in paying off in the past,Car Used,1209,< 100 DM,unemployed,4,male : single,,4,building society savings agreement/ life insurance,47,,Own,1,management,1,registered under the customers name,Yes,2
+A14,12,existing credits paid back duly till now,radio/television,3077,< 100 DM,1 <= ... < 4 years,2,male : single,,4,car or other,52,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,Car Used,3757,< 100 DM, >= 7 years,4,female : divorced/separated/married,co-applicant,4,no property,62,,For Free,1,skilled employee,1,registered under the customers name,Yes,1
+A14,10,existing credits paid back duly till now,Car Used,1418,100 <= ... < 500 DM,1 <= ... < 4 years,3,male : single,,2,real estate,35,,Rent,1,unskilled - resident,1,,No,1
+A14,6,existing credits paid back duly till now,Car Used,3518,< 100 DM,1 <= ... < 4 years,2,male : single,guarantor,3,building society savings agreement/ life insurance,26,,Rent,1,skilled employee,1,,Yes,1
+A14,12,critical account,radio/television,1934,< 100 DM, >= 7 years,2,male : single,,2,no property,26,,Own,2,skilled employee,1,,Yes,1
+A12,27,no credits taken/ all credits paid back duly,business,8318,< 100 DM, >= 7 years,2,female : divorced/separated/married,,4,no property,42,,For Free,2,management,1,registered under the customers name,Yes,2
+A14,6,critical account,radio/television,1237,100 <= ... < 500 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,1,building society savings agreement/ life insurance,27,,Own,2,skilled employee,1,,Yes,1
+A12,6,existing credits paid back duly till now,radio/television,368,Unknown, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,38,,Own,1,skilled employee,1,,Yes,1
+A11,12,critical account,Car Used,2122,< 100 DM,1 <= ... < 4 years,3,male : single,,2,real estate,39,,Rent,2,unskilled - resident,2,,No,1
+A11,24,existing credits paid back duly till now,furniture/equipment,2996,Unknown,1 <= ... < 4 years,2,male : married/widowed,,4,car or other,20,,Own,1,skilled employee,1,,Yes,2
+A12,36,existing credits paid back duly till now,furniture/equipment,9034,100 <= ... < 500 DM,< 1 year,4,male : single,co-applicant,1,no property,29,,Rent,1,management,1,registered under the customers name,Yes,2
+A14,24,critical account,furniture/equipment,1585,< 100 DM,4 <= ... < 7 years,4,male : single,,3,building society savings agreement/ life insurance,40,,Own,2,skilled employee,1,,Yes,1
+A12,18,existing credits paid back duly till now,radio/television,1301,< 100 DM, >= 7 years,4,male : married/widowed,guarantor,2,real estate,32,,Own,1,unskilled - resident,1,,Yes,1
+A13,6,critical account,Car Used,1323,100 <= ... < 500 DM, >= 7 years,2,male : divorced/separated,,4,car or other,28,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A11,24,existing credits paid back duly till now,Car Used,3123,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,building society savings agreement/ life insurance,27,,Own,1,skilled employee,1,,Yes,2
+A11,36,existing credits paid back duly till now,Car New,5493,< 100 DM, >= 7 years,2,male : single,,4,no property,42,,For Free,1,skilled employee,2,,Yes,1
+A13,9,existing credits paid back duly till now,radio/television,1126,100 <= ... < 500 DM, >= 7 years,2,male : divorced/separated,,4,real estate,49,,Own,1,skilled employee,1,,Yes,1
+A12,24,critical account,radio/television,1216,100 <= ... < 500 DM,< 1 year,4,male : single,,4,no property,38,Bank,Own,2,skilled employee,2,,Yes,2
+A11,24,existing credits paid back duly till now,Car Used,1207,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,24,,Rent,1,skilled employee,1,,Yes,2
+A14,10,existing credits paid back duly till now,Car Used,1309,Unknown,1 <= ... < 4 years,4,male : single,guarantor,4,building society savings agreement/ life insurance,27,,Own,1,unskilled - resident,1,,Yes,2
+A13,15,critical account,Car New,2360,500 <= ... < 1000 DM,1 <= ... < 4 years,2,male : single,,2,car or other,36,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,15,all credits at this bank paid back duly,Car Used,6850,100 <= ... < 500 DM,unemployed,1,male : single,,2,building society savings agreement/ life insurance,34,,Own,1,management,2,registered under the customers name,Yes,2
+A14,24,existing credits paid back duly till now,radio/television,1413,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,2,building society savings agreement/ life insurance,28,,Own,1,skilled employee,1,,Yes,1
+A14,39,existing credits paid back duly till now,Car New,8588,100 <= ... < 500 DM, >= 7 years,4,male : single,,2,car or other,45,,Own,1,management,1,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,Car Used,759,< 100 DM,4 <= ... < 7 years,4,male : single,,2,real estate,26,,Own,1,skilled employee,1,,Yes,2
+A14,36,existing credits paid back duly till now,Car New,4686,< 100 DM,1 <= ... < 4 years,2,male : single,,2,no property,32,,For Free,1,management,1,registered under the customers name,Yes,1
+A13,15,existing credits paid back duly till now,business,2687,< 100 DM,4 <= ... < 7 years,2,male : single,,4,building society savings agreement/ life insurance,26,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A12,12,delay in paying off in the past,radio/television,585,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,co-applicant,4,real estate,20,,Rent,2,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,Car Used,2255,Unknown,< 1 year,4,male : single,,1,building society savings agreement/ life insurance,54,,Own,1,skilled employee,1,,Yes,1
+A11,6,critical account,Car Used,609,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,3,building society savings agreement/ life insurance,37,,Own,2,skilled employee,1,,No,1
+A11,6,critical account,Car Used,1361,< 100 DM,< 1 year,2,male : single,,4,real estate,40,,Own,1,unskilled - resident,2,,No,1
+A14,36,critical account,furniture/equipment,7127,< 100 DM,< 1 year,2,female : divorced/separated/married,,4,building society savings agreement/ life insurance,23,,Rent,2,skilled employee,1,registered under the customers name,Yes,2
+A11,6,existing credits paid back duly till now,Car Used,1203,100 <= ... < 500 DM, >= 7 years,3,male : single,,2,building society savings agreement/ life insurance,43,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,6,critical account,radio/television,700,Unknown, >= 7 years,4,male : single,,4,no property,36,,For Free,2,skilled employee,1,,Yes,1
+A14,24,critical account,repairs,5507,< 100 DM, >= 7 years,3,male : single,,4,no property,44,,For Free,2,skilled employee,1,,Yes,1
+A11,18,existing credits paid back duly till now,radio/television,3190,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,real estate,24,,Own,1,skilled employee,1,,Yes,2
+A11,48,no credits taken/ all credits paid back duly,furniture/equipment,7119,< 100 DM,1 <= ... < 4 years,3,male : single,,4,no property,53,,For Free,2,skilled employee,2,,Yes,2
+A14,24,existing credits paid back duly till now,Car New,3488,100 <= ... < 500 DM,4 <= ... < 7 years,3,female : divorced/separated/married,,4,car or other,23,,Own,1,skilled employee,1,,Yes,1
+A12,18,existing credits paid back duly till now,radio/television,1113,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,guarantor,4,real estate,26,,Own,1,unskilled - resident,2,,Yes,1
+A12,26,existing credits paid back duly till now,Car New,7966,< 100 DM,< 1 year,2,male : single,,3,car or other,30,,Own,2,skilled employee,1,,Yes,1
+A14,15,critical account,education,1532,100 <= ... < 500 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,3,car or other,31,,Own,1,skilled employee,1,,Yes,1
+A14,4,critical account,radio/television,1503,< 100 DM,4 <= ... < 7 years,2,male : single,,1,real estate,42,,Own,2,unskilled - resident,2,,Yes,1
+A11,36,existing credits paid back duly till now,radio/television,2302,< 100 DM,1 <= ... < 4 years,4,male : divorced/separated,,4,car or other,31,,Rent,1,skilled employee,1,,Yes,2
+A11,6,existing credits paid back duly till now,Car Used,662,< 100 DM,< 1 year,3,male : single,,4,real estate,41,,Own,1,unskilled - resident,2,registered under the customers name,Yes,1
+A12,36,existing credits paid back duly till now,education,2273,< 100 DM,4 <= ... < 7 years,3,male : single,,1,car or other,32,,Own,2,skilled employee,2,,Yes,1
+A12,15,existing credits paid back duly till now,Car Used,2631,100 <= ... < 500 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,4,car or other,28,,Rent,2,skilled employee,1,registered under the customers name,Yes,2
+A14,12,delay in paying off in the past,Car New,1503,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,4,real estate,41,,Rent,1,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,radio/television,1311,100 <= ... < 500 DM,4 <= ... < 7 years,4,male : married/widowed,,3,building society savings agreement/ life insurance,26,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,radio/television,3105,Unknown,< 1 year,4,male : single,,2,car or other,25,,Own,2,skilled employee,1,,Yes,1
+A13,21,critical account,education,2319,< 100 DM,< 1 year,2,male : divorced/separated,,1,car or other,33,,Rent,1,skilled employee,1,,Yes,2
+A11,6,existing credits paid back duly till now,Car Used,1374,Unknown,unemployed,4,female : divorced/separated/married,,3,building society savings agreement/ life insurance,75,,Own,1,management,1,registered under the customers name,Yes,1
+A12,18,critical account,furniture/equipment,3612,< 100 DM, >= 7 years,3,female : divorced/separated/married,,4,building society savings agreement/ life insurance,37,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,48,existing credits paid back duly till now,Car Used,7763,< 100 DM, >= 7 years,4,male : single,,4,no property,42,Bank,For Free,1,management,1,,Yes,2
+A13,18,existing credits paid back duly till now,furniture/equipment,3049,< 100 DM,< 1 year,1,female : divorced/separated/married,,1,building society savings agreement/ life insurance,45,Stores,Own,1,unskilled - resident,1,,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,1534,< 100 DM,< 1 year,1,male : married/widowed,,1,real estate,23,,Rent,1,skilled employee,1,,Yes,2
+A14,24,delay in paying off in the past,Car Used,2032,< 100 DM, >= 7 years,4,male : single,,4,no property,60,,For Free,2,skilled employee,1,registered under the customers name,Yes,1
+A11,30,existing credits paid back duly till now,furniture/equipment,6350,Unknown, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,31,,Own,1,skilled employee,1,,Yes,2
+A13,18,existing credits paid back duly till now,furniture/equipment,2864,< 100 DM,1 <= ... < 4 years,2,male : single,,1,real estate,34,,Own,1,unskilled - resident,2,,Yes,2
+A14,12,critical account,Car Used,1255,< 100 DM, >= 7 years,4,male : single,,4,real estate,61,,Own,2,unskilled - resident,1,,Yes,1
+A11,24,delay in paying off in the past,Car Used,1333,< 100 DM,unemployed,4,male : single,,2,real estate,43,,For Free,2,skilled employee,2,,Yes,2
+A14,24,critical account,Car Used,2022,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,car or other,37,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,radio/television,1552,< 100 DM,4 <= ... < 7 years,3,male : single,,1,car or other,32,Bank,Own,1,skilled employee,2,,Yes,1
+A11,12,all credits at this bank paid back duly,radio/television,626,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,real estate,24,Bank,Own,1,unskilled - resident,1,,Yes,2
+A14,48,critical account,Car New,8858,Unknown,4 <= ... < 7 years,2,male : single,,1,no property,35,,For Free,2,skilled employee,1,registered under the customers name,Yes,1
+A14,12,critical account,repairs,996,Unknown,4 <= ... < 7 years,4,female : divorced/separated/married,,4,real estate,23,,Own,2,skilled employee,1,,Yes,1
+A14,6,all credits at this bank paid back duly,radio/television,1750,500 <= ... < 1000 DM, >= 7 years,2,male : single,,4,building society savings agreement/ life insurance,45,Bank,Own,1,unskilled - resident,2,,Yes,1
+A11,48,existing credits paid back duly till now,radio/television,6999,< 100 DM,4 <= ... < 7 years,1,male : married/widowed,guarantor,1,real estate,34,,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A12,12,critical account,Car Used,1995,100 <= ... < 500 DM,< 1 year,4,male : single,,1,car or other,27,,Own,1,skilled employee,1,,Yes,1
+A12,9,existing credits paid back duly till now,education,1199,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,67,,Own,2,management,1,registered under the customers name,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,1331,< 100 DM,< 1 year,2,male : single,,1,car or other,22,Stores,Own,1,skilled employee,1,,Yes,2
+A12,18,no credits taken/ all credits paid back duly,Car Used,2278,100 <= ... < 500 DM,< 1 year,3,female : divorced/separated/married,,3,car or other,28,,Own,2,skilled employee,1,,Yes,2
+A14,21,no credits taken/ all credits paid back duly,Car Used,5003,Unknown,1 <= ... < 4 years,1,female : divorced/separated/married,,4,building society savings agreement/ life insurance,29,Bank,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A11,24,all credits at this bank paid back duly,furniture/equipment,3552,< 100 DM,4 <= ... < 7 years,3,male : single,,4,car or other,27,Bank,Own,1,skilled employee,1,,Yes,2
+A12,18,critical account,furniture/equipment,1928,< 100 DM,< 1 year,2,male : single,,2,real estate,31,,Own,2,unskilled - resident,1,,Yes,2
+A11,24,existing credits paid back duly till now,Car New,2964,Unknown, >= 7 years,4,male : single,,4,no property,49,Bank,For Free,1,skilled employee,2,registered under the customers name,Yes,1
+A11,24,all credits at this bank paid back duly,radio/television,1546,< 100 DM,4 <= ... < 7 years,4,male : single,guarantor,4,car or other,24,Bank,Rent,1,unskilled - resident,1,,Yes,2
+A13,6,delay in paying off in the past,radio/television,683,< 100 DM,< 1 year,2,female : divorced/separated/married,,1,building society savings agreement/ life insurance,29,Bank,Own,1,skilled employee,1,,Yes,1
+A12,36,existing credits paid back duly till now,Car Used,12389,Unknown,1 <= ... < 4 years,1,male : single,,4,no property,37,,For Free,1,skilled employee,1,registered under the customers name,Yes,2
+A12,24,delay in paying off in the past,business,4712,Unknown,1 <= ... < 4 years,4,male : single,,2,building society savings agreement/ life insurance,37,Bank,Own,2,management,1,registered under the customers name,Yes,1
+A12,24,delay in paying off in the past,radio/television,1553,100 <= ... < 500 DM,4 <= ... < 7 years,3,female : divorced/separated/married,,2,building society savings agreement/ life insurance,23,,Rent,2,skilled employee,1,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,Car Used,1372,< 100 DM,4 <= ... < 7 years,2,male : divorced/separated,,3,car or other,36,,Own,1,skilled employee,1,,Yes,2
+A14,24,critical account,radio/television,2578,. >= 1000 DM, >= 7 years,2,male : single,,2,car or other,34,,Own,1,skilled employee,1,,Yes,1
+A12,48,existing credits paid back duly till now,radio/television,3979,Unknown,4 <= ... < 7 years,4,male : single,,1,car or other,41,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A11,48,existing credits paid back duly till now,radio/television,6758,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,2,car or other,31,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A11,24,existing credits paid back duly till now,furniture/equipment,3234,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,real estate,23,,Rent,1,unskilled - resident,1,registered under the customers name,Yes,2
+A14,30,critical account,radio/television,5954,< 100 DM,4 <= ... < 7 years,3,male : single,co-applicant,2,car or other,38,,Own,1,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,Car New,5433,Unknown,unemployed,2,female : divorced/separated/married,,4,building society savings agreement/ life insurance,26,,Rent,1,management,1,registered under the customers name,Yes,1
+A11,15,existing credits paid back duly till now,business,806,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,22,,Own,1,unskilled - resident,1,,Yes,1
+A12,9,existing credits paid back duly till now,radio/television,1082,< 100 DM, >= 7 years,4,male : single,,4,car or other,27,,Own,2,unskilled - resident,1,,Yes,1
+A14,15,critical account,furniture/equipment,2788,< 100 DM,4 <= ... < 7 years,2,female : divorced/separated/married,co-applicant,3,car or other,24,Bank,Own,2,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,2930,< 100 DM,4 <= ... < 7 years,2,female : divorced/separated/married,,1,real estate,27,,Own,1,skilled employee,1,,Yes,1
+A14,24,critical account,education,1927,Unknown,1 <= ... < 4 years,3,female : divorced/separated/married,,2,car or other,33,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,36,critical account,Car Used,2820,< 100 DM,< 1 year,4,male : divorced/separated,,4,car or other,27,,Own,2,skilled employee,1,,Yes,2
+A14,24,existing credits paid back duly till now,retraining,937,< 100 DM,< 1 year,4,male : married/widowed,,3,car or other,27,,Own,2,unskilled - resident,1,,Yes,1
+A12,18,critical account,Car Used,1056,< 100 DM, >= 7 years,3,male : single,guarantor,3,real estate,30,Bank,Own,2,skilled employee,1,,Yes,2
+A12,12,critical account,Car Used,3124,< 100 DM,< 1 year,1,male : single,,3,real estate,49,Bank,Own,2,unskilled - resident,2,,Yes,1
+A14,9,existing credits paid back duly till now,furniture/equipment,1388,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,real estate,26,,Rent,1,skilled employee,1,,Yes,1
+A12,36,existing credits paid back duly till now,repairs,2384,< 100 DM,< 1 year,4,male : single,,1,no property,33,,Rent,1,unskilled - resident,1,,Yes,2
+A14,12,existing credits paid back duly till now,Car Used,2133,Unknown, >= 7 years,4,female : divorced/separated/married,,4,no property,52,,For Free,1,management,1,registered under the customers name,Yes,1
+A11,18,existing credits paid back duly till now,furniture/equipment,2039,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,4,real estate,20,Bank,Rent,1,skilled employee,1,,Yes,2
+A11,9,critical account,Car Used,2799,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,36,,Rent,2,skilled employee,2,,Yes,1
+A11,12,existing credits paid back duly till now,furniture/equipment,1289,< 100 DM,1 <= ... < 4 years,4,male : single,guarantor,1,building society savings agreement/ life insurance,21,,Own,1,unskilled - resident,1,,Yes,1
+A11,18,existing credits paid back duly till now,domestic appliances,1217,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,3,real estate,47,,Own,1,unskilled - resident,1,registered under the customers name,Yes,2
+A11,12,critical account,furniture/equipment,2246,< 100 DM, >= 7 years,3,male : single,,3,building society savings agreement/ life insurance,60,,Own,2,skilled employee,1,,Yes,2
+A11,12,critical account,radio/television,385,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,3,real estate,58,,Own,4,unskilled - resident,1,registered under the customers name,Yes,1
+A12,24,delay in paying off in the past,Car Used,1965,Unknown,1 <= ... < 4 years,4,female : divorced/separated/married,,4,car or other,42,,Rent,2,skilled employee,1,registered under the customers name,Yes,1
+A14,21,existing credits paid back duly till now,business,1572,. >= 1000 DM, >= 7 years,4,female : divorced/separated/married,,4,real estate,36,Bank,Own,1,unskilled - resident,1,,Yes,1
+A12,24,existing credits paid back duly till now,Car Used,2718,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,4,building society savings agreement/ life insurance,20,,Rent,1,unskilled - resident,1,registered under the customers name,Yes,2
+A11,24,all credits at this bank paid back duly,Car New0,1358,Unknown, >= 7 years,4,male : single,,3,car or other,40,Stores,Own,1,management,1,registered under the customers name,Yes,2
+A12,6,all credits at this bank paid back duly,Car Used,931,100 <= ... < 500 DM,< 1 year,1,female : divorced/separated/married,,1,building society savings agreement/ life insurance,32,Stores,Own,1,unskilled - resident,1,,Yes,2
+A11,24,existing credits paid back duly till now,Car Used,1442,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,4,car or other,23,,Rent,2,skilled employee,1,,Yes,2
+A12,24,no credits taken/ all credits paid back duly,business,4241,< 100 DM,1 <= ... < 4 years,1,male : single,,4,real estate,36,,Own,3,unskilled - resident,1,registered under the customers name,Yes,2
+A14,18,critical account,Car Used,2775,< 100 DM,4 <= ... < 7 years,2,male : single,,2,building society savings agreement/ life insurance,31,Bank,Own,2,skilled employee,1,,Yes,2
+A14,24,delay in paying off in the past,business,3863,< 100 DM,1 <= ... < 4 years,1,male : single,,2,no property,32,,For Free,1,skilled employee,1,,Yes,1
+A12,7,existing credits paid back duly till now,radio/television,2329,< 100 DM,< 1 year,1,female : divorced/separated/married,guarantor,1,real estate,45,,Own,1,skilled employee,1,,Yes,1
+A12,9,existing credits paid back duly till now,furniture/equipment,918,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,1,building society savings agreement/ life insurance,30,,Own,1,skilled employee,1,,Yes,2
+A12,24,all credits at this bank paid back duly,education,1837,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,4,no property,34,Bank,For Free,1,unskilled - resident,1,,Yes,2
+A14,36,existing credits paid back duly till now,furniture/equipment,3349,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,car or other,28,,Own,1,management,1,registered under the customers name,Yes,2
+A13,10,existing credits paid back duly till now,furniture/equipment,1275,< 100 DM,< 1 year,4,female : divorced/separated/married,,2,building society savings agreement/ life insurance,23,,Own,1,skilled employee,1,,Yes,1
+A11,24,all credits at this bank paid back duly,furniture/equipment,2828,500 <= ... < 1000 DM,1 <= ... < 4 years,4,male : single,,4,real estate,22,Stores,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,24,critical account,business,4526,< 100 DM,1 <= ... < 4 years,3,male : single,,2,real estate,74,,Own,1,management,1,registered under the customers name,Yes,1
+A12,36,existing credits paid back duly till now,radio/television,2671,100 <= ... < 500 DM,1 <= ... < 4 years,4,female : divorced/separated/married,co-applicant,4,no property,50,,For Free,1,skilled employee,1,,Yes,2
+A14,18,existing credits paid back duly till now,radio/television,2051,< 100 DM,< 1 year,4,male : single,,1,real estate,33,,Own,1,skilled employee,1,,Yes,1
+A14,15,existing credits paid back duly till now,Car New,1300,Unknown, >= 7 years,4,male : single,,4,no property,45,Bank,For Free,1,skilled employee,2,,Yes,1
+A11,12,existing credits paid back duly till now,domestic appliances,741,100 <= ... < 500 DM,unemployed,4,female : divorced/separated/married,,3,building society savings agreement/ life insurance,22,,Own,1,skilled employee,1,,Yes,2
+A13,10,existing credits paid back duly till now,Car Used,1240,100 <= ... < 500 DM, >= 7 years,1,female : divorced/separated/married,,4,no property,48,,For Free,1,unskilled - resident,2,,Yes,2
+A11,21,existing credits paid back duly till now,radio/television,3357,. >= 1000 DM,< 1 year,4,female : divorced/separated/married,,2,car or other,29,Bank,Own,1,skilled employee,1,,Yes,1
+A11,24,all credits at this bank paid back duly,Car New,3632,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,guarantor,4,car or other,22,Bank,Rent,1,skilled employee,1,,No,1
+A14,18,delay in paying off in the past,furniture/equipment,1808,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,1,real estate,22,,Own,1,skilled employee,1,,Yes,2
+A12,48,no credits taken/ all credits paid back duly,business,12204,Unknown,1 <= ... < 4 years,2,male : single,,2,car or other,48,Bank,Own,1,management,1,registered under the customers name,Yes,1
+A12,60,delay in paying off in the past,radio/television,9157,Unknown,1 <= ... < 4 years,2,male : single,,2,no property,27,,For Free,1,management,1,,Yes,1
+A11,6,critical account,Car Used,3676,< 100 DM,1 <= ... < 4 years,1,male : single,,3,real estate,37,,Rent,3,skilled employee,2,,Yes,1
+A12,30,existing credits paid back duly till now,furniture/equipment,3441,100 <= ... < 500 DM,1 <= ... < 4 years,2,female : divorced/separated/married,co-applicant,4,car or other,21,,Rent,1,skilled employee,1,,Yes,2
+A14,12,existing credits paid back duly till now,Car Used,640,< 100 DM,1 <= ... < 4 years,4,male : divorced/separated,,2,real estate,49,,Own,1,unskilled - resident,1,,Yes,1
+A12,21,critical account,business,3652,< 100 DM,4 <= ... < 7 years,2,male : single,,3,building society savings agreement/ life insurance,27,,Own,2,skilled employee,1,,Yes,1
+A14,18,critical account,Car Used,1530,< 100 DM,1 <= ... < 4 years,3,male : single,,2,building society savings agreement/ life insurance,32,Bank,Own,2,skilled employee,1,,Yes,2
+A14,48,existing credits paid back duly till now,business,3914,Unknown,1 <= ... < 4 years,4,male : divorced/separated,,2,real estate,38,Bank,Own,1,skilled employee,1,,Yes,2
+A11,12,existing credits paid back duly till now,furniture/equipment,1858,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,car or other,22,,Rent,1,skilled employee,1,,Yes,1
+A11,18,existing credits paid back duly till now,radio/television,2600,< 100 DM,1 <= ... < 4 years,4,male : single,,4,no property,65,,For Free,2,skilled employee,1,,Yes,2
+A14,15,existing credits paid back duly till now,radio/television,1979,Unknown, >= 7 years,4,male : single,,2,car or other,35,,Own,1,skilled employee,1,,Yes,1
+A13,6,existing credits paid back duly till now,furniture/equipment,2116,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,41,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,9,all credits at this bank paid back duly,Car Used,1437,100 <= ... < 500 DM,4 <= ... < 7 years,2,male : single,,3,no property,29,,Own,1,skilled employee,1,,Yes,2
+A14,42,critical account,furniture/equipment,4042,500 <= ... < 1000 DM,1 <= ... < 4 years,4,male : single,,4,real estate,36,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,9,existing credits paid back duly till now,education,3832,Unknown, >= 7 years,1,male : single,,4,real estate,64,,Own,1,unskilled - resident,1,,Yes,1
+A11,24,existing credits paid back duly till now,radio/television,3660,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,4,car or other,28,,Own,1,skilled employee,1,,Yes,1
+A11,18,all credits at this bank paid back duly,furniture/equipment,1553,< 100 DM,1 <= ... < 4 years,4,male : single,,3,car or other,44,Bank,Own,1,skilled employee,1,,Yes,2
+A12,15,existing credits paid back duly till now,radio/television,1444,Unknown,< 1 year,4,male : single,,1,building society savings agreement/ life insurance,23,,Own,1,skilled employee,1,,Yes,1
+A14,9,existing credits paid back duly till now,furniture/equipment,1980,< 100 DM,< 1 year,2,female : divorced/separated/married,co-applicant,2,car or other,19,,Rent,2,skilled employee,1,,Yes,2
+A12,24,existing credits paid back duly till now,Car Used,1355,< 100 DM,< 1 year,3,female : divorced/separated/married,,4,car or other,25,,Own,1,unskilled - resident,1,registered under the customers name,Yes,2
+A14,12,existing credits paid back duly till now,education,1393,< 100 DM, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,47,Bank,Own,3,skilled employee,2,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,radio/television,1376,500 <= ... < 1000 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,1,car or other,28,,Own,1,skilled employee,1,,Yes,1
+A14,60,delay in paying off in the past,radio/television,15653,< 100 DM,4 <= ... < 7 years,2,male : single,,4,car or other,21,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,1493,< 100 DM,< 1 year,4,female : divorced/separated/married,,3,car or other,34,,Own,1,skilled employee,2,,Yes,1
+A11,42,delay in paying off in the past,radio/television,4370,< 100 DM,4 <= ... < 7 years,3,male : single,,2,building society savings agreement/ life insurance,26,Bank,Own,2,skilled employee,2,registered under the customers name,Yes,2
+A11,18,existing credits paid back duly till now,education,750,< 100 DM,unemployed,4,female : divorced/separated/married,,1,real estate,27,,Own,1,unemployed,1,,Yes,2
+A12,15,existing credits paid back duly till now,repairs,1308,< 100 DM, >= 7 years,4,male : single,,4,car or other,38,,Own,2,unskilled - resident,1,,Yes,1
+A14,15,existing credits paid back duly till now,education,4623,100 <= ... < 500 DM,1 <= ... < 4 years,3,male : single,,2,building society savings agreement/ life insurance,40,,Own,1,management,1,registered under the customers name,Yes,2
+A14,24,critical account,radio/television,1851,< 100 DM,4 <= ... < 7 years,4,male : married/widowed,guarantor,2,car or other,33,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,18,critical account,radio/television,1880,< 100 DM,4 <= ... < 7 years,4,male : married/widowed,,1,building society savings agreement/ life insurance,32,,Own,2,management,1,registered under the customers name,Yes,1
+A14,36,delay in paying off in the past,business,7980,Unknown,< 1 year,4,male : single,,4,car or other,27,,Rent,2,skilled employee,1,registered under the customers name,Yes,2
+A11,30,no credits taken/ all credits paid back duly,furniture/equipment,4583,< 100 DM,1 <= ... < 4 years,2,male : divorced/separated,guarantor,2,real estate,32,,Own,2,skilled employee,1,,Yes,1
+A14,12,existing credits paid back duly till now,Car Used,1386,500 <= ... < 1000 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,building society savings agreement/ life insurance,26,,Own,1,skilled employee,1,,Yes,2
+A13,24,existing credits paid back duly till now,Car Used,947,< 100 DM,4 <= ... < 7 years,4,male : single,,3,no property,38,Bank,For Free,1,skilled employee,2,,Yes,2
+A11,12,existing credits paid back duly till now,education,684,< 100 DM,1 <= ... < 4 years,4,male : single,,4,car or other,40,,Rent,1,unskilled - resident,2,,Yes,2
+A11,48,existing credits paid back duly till now,education,7476,< 100 DM,4 <= ... < 7 years,4,male : single,,1,no property,50,,For Free,1,management,1,registered under the customers name,Yes,1
+A12,12,existing credits paid back duly till now,furniture/equipment,1922,< 100 DM,1 <= ... < 4 years,4,male : single,,2,building society savings agreement/ life insurance,37,,Own,1,unskilled - resident,1,,Yes,2
+A11,24,existing credits paid back duly till now,Car Used,2303,< 100 DM, >= 7 years,4,male : single,co-applicant,1,real estate,45,,Own,1,skilled employee,1,,Yes,2
+A12,36,delay in paying off in the past,Car Used,8086,100 <= ... < 500 DM, >= 7 years,2,male : single,,4,car or other,42,,Own,4,management,1,registered under the customers name,Yes,2
+A14,24,critical account,Car New,2346,< 100 DM,4 <= ... < 7 years,4,male : single,,3,car or other,35,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,14,existing credits paid back duly till now,Car Used,3973,< 100 DM,unemployed,1,male : single,,4,no property,22,,For Free,1,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,Car Used,888,< 100 DM, >= 7 years,4,male : single,,4,car or other,41,Bank,Own,1,unskilled - resident,2,,Yes,2
+A14,48,existing credits paid back duly till now,radio/television,10222,Unknown,4 <= ... < 7 years,4,male : single,,3,car or other,37,Stores,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,30,no credits taken/ all credits paid back duly,business,4221,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,1,car or other,28,,Own,2,skilled employee,1,,Yes,1
+A12,18,critical account,furniture/equipment,6361,< 100 DM, >= 7 years,2,male : single,,1,no property,41,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A13,12,existing credits paid back duly till now,radio/television,1297,< 100 DM,1 <= ... < 4 years,3,male : married/widowed,,4,real estate,23,,Rent,1,skilled employee,1,,Yes,1
+A11,12,existing credits paid back duly till now,Car Used,900,Unknown,1 <= ... < 4 years,4,male : married/widowed,,2,car or other,23,,Own,1,skilled employee,1,,Yes,2
+A14,21,existing credits paid back duly till now,furniture/equipment,2241,< 100 DM, >= 7 years,4,male : single,,2,real estate,50,,Own,2,skilled employee,1,,Yes,1
+A12,6,delay in paying off in the past,furniture/equipment,1050,< 100 DM,unemployed,4,male : single,,1,building society savings agreement/ life insurance,35,Stores,Own,2,management,1,registered under the customers name,Yes,1
+A13,6,critical account,education,1047,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,4,building society savings agreement/ life insurance,50,,Own,1,unskilled - resident,1,,Yes,1
+A14,24,critical account,Car New0,6314,< 100 DM,unemployed,4,male : single,co-applicant,2,no property,27,Bank,Own,2,management,1,registered under the customers name,Yes,1
+A12,30,all credits at this bank paid back duly,furniture/equipment,3496,. >= 1000 DM,1 <= ... < 4 years,4,male : single,,2,car or other,34,Stores,Own,1,skilled employee,2,registered under the customers name,Yes,1
+A14,48,all credits at this bank paid back duly,business,3609,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,1,real estate,27,Stores,Own,1,skilled employee,1,,Yes,1
+A11,12,critical account,Car Used,4843,< 100 DM, >= 7 years,3,male : single,co-applicant,4,building society savings agreement/ life insurance,43,,Rent,2,skilled employee,1,registered under the customers name,Yes,2
+A13,30,critical account,radio/television,3017,< 100 DM, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,47,,Own,1,skilled employee,1,,Yes,1
+A14,24,critical account,business,4139,100 <= ... < 500 DM,1 <= ... < 4 years,3,male : single,,3,building society savings agreement/ life insurance,27,,Own,2,unskilled - resident,1,registered under the customers name,Yes,1
+A14,36,existing credits paid back duly till now,business,5742,100 <= ... < 500 DM,4 <= ... < 7 years,2,male : single,,2,car or other,31,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,60,existing credits paid back duly till now,Car Used,10366,< 100 DM, >= 7 years,2,male : single,,4,building society savings agreement/ life insurance,42,,Own,1,management,1,registered under the customers name,Yes,1
+A14,6,critical account,Car Used,2080,500 <= ... < 1000 DM,1 <= ... < 4 years,1,male : married/widowed,,2,car or other,24,,Own,1,skilled employee,1,,Yes,1
+A14,21,delay in paying off in the past,business,2580,500 <= ... < 1000 DM,< 1 year,4,male : single,,2,real estate,41,Bank,Own,1,unskilled - resident,2,,Yes,2
+A14,30,critical account,radio/television,4530,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,4,car or other,26,,Rent,1,management,1,registered under the customers name,Yes,1
+A14,24,critical account,furniture/equipment,5150,< 100 DM, >= 7 years,4,male : single,,4,car or other,33,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,72,existing credits paid back duly till now,radio/television,5595,100 <= ... < 500 DM,1 <= ... < 4 years,2,male : married/widowed,,2,car or other,24,,Own,1,skilled employee,1,,Yes,2
+A11,24,existing credits paid back duly till now,radio/television,2384,< 100 DM, >= 7 years,4,male : single,,4,real estate,64,Bank,Rent,1,unskilled - resident,1,,Yes,1
+A14,18,existing credits paid back duly till now,radio/television,1453,< 100 DM,< 1 year,3,female : divorced/separated/married,,1,real estate,26,,Own,1,skilled employee,1,,Yes,1
+A14,6,existing credits paid back duly till now,education,1538,< 100 DM,< 1 year,1,female : divorced/separated/married,,2,no property,56,,Own,1,skilled employee,1,,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,2279,Unknown,1 <= ... < 4 years,4,male : single,,4,no property,37,,For Free,1,skilled employee,1,registered under the customers name,Yes,1
+A14,15,delay in paying off in the past,radio/television,1478,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,3,real estate,33,Bank,Own,2,skilled employee,1,,Yes,1
+A14,24,critical account,radio/television,5103,< 100 DM,< 1 year,3,male : married/widowed,,3,no property,47,,For Free,3,skilled employee,1,registered under the customers name,Yes,1
+A12,36,delay in paying off in the past,business,9857,100 <= ... < 500 DM,4 <= ... < 7 years,1,male : single,,3,building society savings agreement/ life insurance,31,,Own,2,unskilled - resident,2,registered under the customers name,Yes,1
+A14,60,existing credits paid back duly till now,Car Used,6527,Unknown,1 <= ... < 4 years,4,male : single,,4,no property,34,,For Free,1,skilled employee,2,registered under the customers name,Yes,1
+A13,10,critical account,radio/television,1347,Unknown,4 <= ... < 7 years,4,male : single,,2,building society savings agreement/ life insurance,27,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,36,delay in paying off in the past,Car Used,2862,100 <= ... < 500 DM, >= 7 years,4,male : single,,3,no property,30,,For Free,1,skilled employee,1,,Yes,1
+A14,9,existing credits paid back duly till now,radio/television,2753,100 <= ... < 500 DM, >= 7 years,3,male : single,co-applicant,4,car or other,35,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,Car Used,3651,. >= 1000 DM,1 <= ... < 4 years,1,male : single,,3,building society savings agreement/ life insurance,31,,Own,1,skilled employee,2,,Yes,1
+A11,15,critical account,furniture/equipment,975,< 100 DM,1 <= ... < 4 years,2,male : divorced/separated,,3,building society savings agreement/ life insurance,25,,Own,2,skilled employee,1,,Yes,1
+A12,15,existing credits paid back duly till now,repairs,2631,100 <= ... < 500 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,2,real estate,25,,Own,1,unskilled - resident,1,,Yes,1
+A12,24,existing credits paid back duly till now,radio/television,2896,100 <= ... < 500 DM,< 1 year,2,male : single,,1,car or other,29,,Own,1,skilled employee,1,,Yes,1
+A11,6,critical account,Car Used,4716,Unknown,< 1 year,1,male : single,,3,real estate,44,,Own,2,unskilled - resident,2,,Yes,1
+A14,24,existing credits paid back duly till now,radio/television,2284,< 100 DM,4 <= ... < 7 years,4,male : single,,2,car or other,28,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,6,existing credits paid back duly till now,Car New,1236,500 <= ... < 1000 DM,1 <= ... < 4 years,2,male : single,,4,building society savings agreement/ life insurance,50,,Rent,1,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,1103,< 100 DM,4 <= ... < 7 years,4,male : single,guarantor,3,real estate,29,,Own,2,skilled employee,1,,No,1
+A14,12,critical account,Car Used,926,< 100 DM,unemployed,1,female : divorced/separated/married,,2,building society savings agreement/ life insurance,38,,Own,1,unemployed,1,,Yes,1
+A14,18,critical account,radio/television,1800,< 100 DM,1 <= ... < 4 years,4,male : single,,2,car or other,24,,Own,2,skilled employee,1,,Yes,1
+A13,15,existing credits paid back duly till now,education,1905,< 100 DM, >= 7 years,4,male : single,,4,car or other,40,,Rent,1,management,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,furniture/equipment,1123,500 <= ... < 1000 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,car or other,29,,Rent,1,unskilled - resident,1,,Yes,2
+A11,48,critical account,Car New,6331,< 100 DM, >= 7 years,4,male : single,,4,no property,46,,For Free,2,skilled employee,1,registered under the customers name,Yes,2
+A13,24,existing credits paid back duly till now,radio/television,1377,100 <= ... < 500 DM, >= 7 years,4,female : divorced/separated/married,,2,no property,47,,For Free,1,skilled employee,1,registered under the customers name,Yes,1
+A12,30,delay in paying off in the past,business,2503,100 <= ... < 500 DM, >= 7 years,4,male : single,,2,building society savings agreement/ life insurance,41,Stores,Own,2,skilled employee,1,,Yes,1
+A12,27,existing credits paid back duly till now,business,2528,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,building society savings agreement/ life insurance,32,,Own,1,skilled employee,2,registered under the customers name,Yes,1
+A14,15,existing credits paid back duly till now,Car Used,5324,500 <= ... < 1000 DM, >= 7 years,1,female : divorced/separated/married,,4,no property,35,,For Free,1,skilled employee,1,,Yes,1
+A12,48,existing credits paid back duly till now,Car Used,6560,100 <= ... < 500 DM,4 <= ... < 7 years,3,male : single,,2,building society savings agreement/ life insurance,24,,Own,1,skilled employee,1,,Yes,2
+A12,12,no credits taken/ all credits paid back duly,furniture/equipment,2969,< 100 DM,< 1 year,4,female : divorced/separated/married,,3,building society savings agreement/ life insurance,25,,Rent,2,skilled employee,1,,Yes,2
+A12,9,existing credits paid back duly till now,radio/television,1206,< 100 DM, >= 7 years,4,female : divorced/separated/married,,4,real estate,25,,Own,1,skilled employee,1,,Yes,1
+A12,9,existing credits paid back duly till now,radio/television,2118,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,37,,Own,1,unskilled - resident,2,,Yes,1
+A14,18,critical account,radio/television,629,500 <= ... < 1000 DM, >= 7 years,4,male : single,,3,building society savings agreement/ life insurance,32,Bank,Own,2,management,1,registered under the customers name,Yes,1
+A11,6,all credits at this bank paid back duly,education,1198,< 100 DM, >= 7 years,4,female : divorced/separated/married,,4,no property,35,,For Free,1,skilled employee,1,,Yes,2
+A14,21,existing credits paid back duly till now,Car New,2476,Unknown, >= 7 years,4,male : single,,4,real estate,46,,Own,1,management,1,registered under the customers name,Yes,1
+A11,9,critical account,radio/television,1138,< 100 DM,1 <= ... < 4 years,4,male : single,,4,real estate,25,,Own,2,unskilled - resident,1,,Yes,1
+A12,60,existing credits paid back duly till now,Car Used,14027,< 100 DM,4 <= ... < 7 years,4,male : single,,2,no property,27,,Own,1,management,1,registered under the customers name,Yes,2
+A14,30,critical account,Car New,7596,Unknown, >= 7 years,1,male : single,,4,car or other,63,,Own,2,skilled employee,1,,Yes,1
+A14,30,critical account,radio/television,3077,Unknown, >= 7 years,3,male : single,,2,car or other,40,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A14,18,existing credits paid back duly till now,radio/television,1505,< 100 DM,1 <= ... < 4 years,4,male : single,,2,no property,32,,For Free,1,management,1,registered under the customers name,Yes,1
+A13,24,critical account,radio/television,3148,Unknown,1 <= ... < 4 years,3,male : single,,2,car or other,31,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,20,no credits taken/ all credits paid back duly,Car New,6148,100 <= ... < 500 DM, >= 7 years,3,male : married/widowed,,4,car or other,31,Bank,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A13,9,no credits taken/ all credits paid back duly,radio/television,1337,< 100 DM,< 1 year,4,male : single,,2,car or other,34,,Own,2,management,1,registered under the customers name,Yes,2
+A12,6,all credits at this bank paid back duly,education,433,. >= 1000 DM,< 1 year,4,female : divorced/separated/married,,2,building society savings agreement/ life insurance,24,Bank,Rent,1,skilled employee,2,,Yes,2
+A11,12,existing credits paid back duly till now,Car Used,1228,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,real estate,24,,Own,1,unskilled - resident,1,,Yes,2
+A12,9,existing credits paid back duly till now,radio/television,790,500 <= ... < 1000 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,3,real estate,66,,Own,1,unskilled - resident,1,,Yes,1
+A14,27,existing credits paid back duly till now,Car Used,2570,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,3,real estate,21,,Rent,1,skilled employee,1,,Yes,2
+A14,6,critical account,Car Used,250,. >= 1000 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,real estate,41,Bank,Own,2,unskilled - resident,1,,Yes,1
+A14,15,critical account,radio/television,1316,500 <= ... < 1000 DM,1 <= ... < 4 years,2,male : married/widowed,,2,building society savings agreement/ life insurance,47,,Own,2,unskilled - resident,1,,Yes,1
+A11,18,existing credits paid back duly till now,radio/television,1882,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,car or other,25,Bank,Rent,2,skilled employee,1,,Yes,2
+A12,48,all credits at this bank paid back duly,business,6416,< 100 DM, >= 7 years,4,female : divorced/separated/married,,3,no property,59,,Rent,1,skilled employee,1,,Yes,2
+A13,24,critical account,business,1275,. >= 1000 DM,1 <= ... < 4 years,2,male : divorced/separated,,4,real estate,36,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,24,delay in paying off in the past,radio/television,6403,< 100 DM,< 1 year,1,male : single,,2,car or other,33,,Own,1,skilled employee,1,,Yes,1
+A11,24,existing credits paid back duly till now,radio/television,1987,< 100 DM,1 <= ... < 4 years,2,male : single,,4,real estate,21,,Rent,1,unskilled - resident,2,,Yes,2
+A12,8,existing credits paid back duly till now,radio/television,760,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,guarantor,2,real estate,44,,Own,1,unskilled - resident,1,,Yes,1
+A14,24,existing credits paid back duly till now,Car New,2603,. >= 1000 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,4,car or other,28,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A14,4,critical account,Car Used,3380,< 100 DM,4 <= ... < 7 years,1,female : divorced/separated/married,,1,real estate,37,,Own,1,skilled employee,2,,Yes,1
+A12,36,all credits at this bank paid back duly,domestic appliances,3990,Unknown,< 1 year,3,female : divorced/separated/married,,2,no property,29,Bank,Own,1,unemployed,1,,Yes,1
+A12,24,existing credits paid back duly till now,Car New,11560,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,4,car or other,23,,Rent,2,management,1,,Yes,2
+A11,18,existing credits paid back duly till now,Car Used,4380,100 <= ... < 500 DM,1 <= ... < 4 years,3,male : single,,4,car or other,35,,Own,1,unskilled - resident,2,registered under the customers name,Yes,1
+A14,6,critical account,Car Used,6761,< 100 DM,4 <= ... < 7 years,1,male : single,,3,no property,45,,Own,2,management,2,registered under the customers name,Yes,1
+A12,30,no credits taken/ all credits paid back duly,business,4280,100 <= ... < 500 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,car or other,26,,Rent,2,unskilled - resident,1,,Yes,2
+A11,24,all credits at this bank paid back duly,Car Used,2325,100 <= ... < 500 DM,4 <= ... < 7 years,2,male : single,,3,car or other,32,Bank,Own,1,skilled employee,1,,Yes,1
+A12,10,all credits at this bank paid back duly,radio/television,1048,< 100 DM,1 <= ... < 4 years,4,male : single,,4,real estate,23,Stores,Own,1,unskilled - resident,1,,Yes,1
+A14,21,existing credits paid back duly till now,radio/television,3160,Unknown, >= 7 years,4,male : single,,3,building society savings agreement/ life insurance,41,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,24,all credits at this bank paid back duly,furniture/equipment,2483,500 <= ... < 1000 DM,1 <= ... < 4 years,4,male : single,,4,real estate,22,Stores,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,39,critical account,furniture/equipment,14179,Unknown,4 <= ... < 7 years,4,male : single,,4,building society savings agreement/ life insurance,30,,Own,2,management,1,registered under the customers name,Yes,1
+A11,13,critical account,business,1797,< 100 DM,< 1 year,3,male : single,,1,building society savings agreement/ life insurance,28,Bank,Own,2,unskilled - resident,1,,Yes,1
+A11,15,existing credits paid back duly till now,Car Used,2511,< 100 DM,unemployed,1,female : divorced/separated/married,,4,car or other,23,,Rent,1,skilled employee,1,,Yes,1
+A11,12,existing credits paid back duly till now,Car Used,1274,< 100 DM,< 1 year,3,female : divorced/separated/married,,1,real estate,37,,Own,1,unskilled - resident,1,,Yes,2
+A14,21,existing credits paid back duly till now,Car New,5248,Unknown,1 <= ... < 4 years,1,male : single,,3,car or other,26,,Own,1,skilled employee,1,,Yes,1
+A14,15,existing credits paid back duly till now,Car New,3029,< 100 DM,4 <= ... < 7 years,2,male : single,,2,car or other,33,,Own,1,skilled employee,1,,Yes,1
+A11,6,existing credits paid back duly till now,furniture/equipment,428,< 100 DM, >= 7 years,2,female : divorced/separated/married,,1,building society savings agreement/ life insurance,49,Bank,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,18,existing credits paid back duly till now,Car Used,976,< 100 DM,< 1 year,1,female : divorced/separated/married,,2,car or other,23,,Own,1,unskilled - resident,1,,Yes,2
+A12,12,existing credits paid back duly till now,business,841,100 <= ... < 500 DM,4 <= ... < 7 years,2,female : divorced/separated/married,,4,real estate,23,,Rent,1,unskilled - resident,1,,Yes,1
+A14,30,critical account,radio/television,5771,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,,2,car or other,25,,Own,2,skilled employee,1,,Yes,1
+A14,12,delay in paying off in the past,repairs,1555,. >= 1000 DM, >= 7 years,4,male : single,,4,no property,55,,For Free,2,skilled employee,2,,Yes,2
+A11,24,existing credits paid back duly till now,Car Used,1285,Unknown,4 <= ... < 7 years,4,female : divorced/separated/married,,4,no property,32,,Rent,1,skilled employee,1,,Yes,2
+A13,6,critical account,Car Used,1299,< 100 DM,1 <= ... < 4 years,1,male : single,,1,real estate,74,,Own,3,unemployed,2,,No,1
+A13,15,critical account,radio/television,1271,Unknown,1 <= ... < 4 years,3,male : single,,4,no property,39,,For Free,2,skilled employee,1,registered under the customers name,Yes,2
+A14,24,existing credits paid back duly till now,Car Used,1393,< 100 DM,1 <= ... < 4 years,2,male : single,guarantor,2,real estate,31,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,12,critical account,Car Used,691,< 100 DM, >= 7 years,4,male : single,,3,building society savings agreement/ life insurance,35,,Own,2,skilled employee,1,,Yes,2
+A14,15,critical account,Car Used,5045,Unknown, >= 7 years,1,female : divorced/separated/married,,4,car or other,59,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,18,critical account,furniture/equipment,2124,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,real estate,24,,Rent,2,skilled employee,1,,Yes,2
+A11,12,existing credits paid back duly till now,radio/television,2214,< 100 DM,1 <= ... < 4 years,4,male : single,,3,building society savings agreement/ life insurance,24,,Own,1,unskilled - resident,1,,Yes,1
+A14,21,critical account,Car Used,12680,Unknown, >= 7 years,4,male : single,,4,no property,30,,For Free,1,management,1,registered under the customers name,Yes,2
+A14,24,critical account,Car Used,2463,100 <= ... < 500 DM,4 <= ... < 7 years,4,male : married/widowed,,3,building society savings agreement/ life insurance,27,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,12,existing credits paid back duly till now,radio/television,1155,< 100 DM, >= 7 years,3,male : married/widowed,guarantor,3,real estate,40,Bank,Own,2,unskilled - resident,1,,Yes,1
+A11,30,existing credits paid back duly till now,furniture/equipment,3108,< 100 DM,< 1 year,2,male : divorced/separated,,4,building society savings agreement/ life insurance,31,,Own,1,unskilled - resident,1,,Yes,2
+A14,10,existing credits paid back duly till now,Car New,2901,Unknown,< 1 year,1,female : divorced/separated/married,,4,real estate,31,,Rent,1,skilled employee,1,,Yes,1
+A12,12,critical account,furniture/equipment,3617,< 100 DM, >= 7 years,1,male : single,,4,car or other,28,,Rent,3,skilled employee,1,registered under the customers name,Yes,1
+A14,12,critical account,radio/television,1655,< 100 DM, >= 7 years,2,male : single,,4,real estate,63,,Own,2,unskilled - resident,1,registered under the customers name,Yes,1
+A11,24,existing credits paid back duly till now,Car New,2812,Unknown, >= 7 years,2,female : divorced/separated/married,,4,real estate,26,,Rent,1,skilled employee,1,,Yes,1
+A11,36,critical account,education,8065,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,2,no property,25,,Own,2,management,1,registered under the customers name,Yes,2
+A14,21,critical account,Car New,3275,< 100 DM, >= 7 years,1,male : single,,4,car or other,36,,Own,1,management,1,registered under the customers name,Yes,1
+A14,24,critical account,radio/television,2223,100 <= ... < 500 DM, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,52,Bank,Own,2,skilled employee,1,,Yes,1
+A13,12,critical account,Car Used,1480,500 <= ... < 1000 DM,unemployed,2,male : single,,4,no property,66,Bank,For Free,3,unemployed,1,,Yes,1
+A11,24,existing credits paid back duly till now,Car Used,1371,Unknown,1 <= ... < 4 years,4,female : divorced/separated/married,,4,real estate,25,,Rent,1,skilled employee,1,,Yes,2
+A14,36,critical account,Car Used,3535,< 100 DM,4 <= ... < 7 years,4,male : single,,4,car or other,37,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,18,existing credits paid back duly till now,radio/television,3509,< 100 DM,4 <= ... < 7 years,4,female : divorced/separated/married,guarantor,1,real estate,25,,Own,1,skilled employee,1,,Yes,1
+A14,36,critical account,Car New,5711,. >= 1000 DM, >= 7 years,4,male : single,,2,car or other,38,,Own,2,management,1,registered under the customers name,Yes,1
+A12,18,existing credits paid back duly till now,repairs,3872,< 100 DM,unemployed,2,female : divorced/separated/married,,4,car or other,67,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,39,critical account,radio/television,4933,< 100 DM,4 <= ... < 7 years,2,male : single,guarantor,2,real estate,25,,Own,2,skilled employee,1,,Yes,2
+A14,24,critical account,Car Used,1940,. >= 1000 DM, >= 7 years,4,male : single,,4,real estate,60,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,12,no credits taken/ all credits paid back duly,retraining,1410,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,31,,Own,1,unskilled - resident,1,registered under the customers name,Yes,1
+A12,12,existing credits paid back duly till now,Car Used,836,100 <= ... < 500 DM,< 1 year,4,female : divorced/separated/married,,2,building society savings agreement/ life insurance,23,Bank,Own,1,unskilled - resident,1,,Yes,2
+A12,20,existing credits paid back duly till now,Car New,6468,Unknown,unemployed,1,male : divorced/separated,,4,real estate,60,,Own,1,management,1,registered under the customers name,Yes,1
+A12,18,existing credits paid back duly till now,business,1941,. >= 1000 DM,1 <= ... < 4 years,4,male : single,,2,building society savings agreement/ life insurance,35,,Own,1,unskilled - resident,1,registered under the customers name,Yes,1
+A14,22,existing credits paid back duly till now,radio/television,2675,500 <= ... < 1000 DM, >= 7 years,3,male : single,,4,car or other,40,,Own,1,skilled employee,1,,Yes,1
+A14,48,critical account,Car New,2751,Unknown, >= 7 years,4,male : single,,3,car or other,38,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A12,48,delay in paying off in the past,education,6224,< 100 DM, >= 7 years,4,male : single,,4,no property,50,,For Free,1,skilled employee,1,,Yes,2
+A11,40,critical account,education,5998,< 100 DM,1 <= ... < 4 years,4,male : single,,3,no property,27,Bank,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A12,21,existing credits paid back duly till now,business,1188,< 100 DM, >= 7 years,2,female : divorced/separated/married,,4,building society savings agreement/ life insurance,39,,Own,1,skilled employee,2,,Yes,2
+A14,24,existing credits paid back duly till now,Car New,6313,Unknown, >= 7 years,3,male : single,,4,car or other,41,,Own,1,management,2,registered under the customers name,Yes,1
+A14,6,critical account,furniture/equipment,1221,Unknown,1 <= ... < 4 years,1,male : married/widowed,,2,building society savings agreement/ life insurance,27,,Own,2,skilled employee,1,,Yes,1
+A13,24,existing credits paid back duly till now,furniture/equipment,2892,< 100 DM, >= 7 years,3,male : divorced/separated,,4,no property,51,,For Free,1,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,furniture/equipment,3062,500 <= ... < 1000 DM, >= 7 years,4,male : single,,3,no property,32,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A14,9,existing credits paid back duly till now,furniture/equipment,2301,100 <= ... < 500 DM,< 1 year,2,female : divorced/separated/married,,4,building society savings agreement/ life insurance,22,,Rent,1,skilled employee,1,,Yes,1
+A11,18,existing credits paid back duly till now,Car New,7511,Unknown, >= 7 years,1,male : single,,4,building society savings agreement/ life insurance,51,,For Free,1,skilled employee,2,registered under the customers name,Yes,2
+A14,12,critical account,furniture/equipment,1258,< 100 DM,< 1 year,2,female : divorced/separated/married,,4,building society savings agreement/ life insurance,22,,Rent,2,unskilled - resident,1,,Yes,1
+A14,24,delay in paying off in the past,Car Used,717,Unknown, >= 7 years,4,male : married/widowed,,4,car or other,54,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A12,9,existing credits paid back duly till now,Car Used,1549,Unknown,< 1 year,4,male : single,,2,real estate,35,,Own,1,unemployed,1,,Yes,1
+A14,24,critical account,education,1597,< 100 DM, >= 7 years,4,male : single,,4,no property,54,,For Free,2,skilled employee,2,,Yes,1
+A12,18,critical account,radio/television,1795,< 100 DM, >= 7 years,3,female : divorced/separated/married,guarantor,4,real estate,48,Bank,Rent,2,unskilled - resident,1,registered under the customers name,Yes,1
+A11,20,critical account,furniture/equipment,4272,< 100 DM, >= 7 years,1,female : divorced/separated/married,,4,building society savings agreement/ life insurance,24,,Own,2,skilled employee,1,,Yes,1
+A14,12,critical account,radio/television,976,Unknown, >= 7 years,4,male : single,,4,car or other,35,,Own,2,skilled employee,1,,Yes,1
+A12,12,existing credits paid back duly till now,Car Used,7472,Unknown,unemployed,1,female : divorced/separated/married,,2,real estate,24,,Rent,1,unemployed,1,,Yes,1
+A11,36,existing credits paid back duly till now,Car Used,9271,< 100 DM,4 <= ... < 7 years,2,male : single,,1,car or other,24,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A12,6,existing credits paid back duly till now,radio/television,590,< 100 DM,< 1 year,3,male : married/widowed,,3,real estate,26,,Own,1,unskilled - resident,1,,No,1
+A14,12,critical account,radio/television,930,Unknown, >= 7 years,4,male : single,,4,real estate,65,,Own,4,skilled employee,1,,Yes,1
+A12,42,all credits at this bank paid back duly,Car New,9283,< 100 DM,unemployed,1,male : single,,2,no property,55,Bank,For Free,1,management,1,registered under the customers name,Yes,1
+A12,15,no credits taken/ all credits paid back duly,Car Used,1778,< 100 DM,< 1 year,2,female : divorced/separated/married,,1,real estate,26,,Rent,2,unemployed,1,,Yes,2
+A12,8,existing credits paid back duly till now,business,907,< 100 DM,< 1 year,3,male : married/widowed,,2,real estate,26,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A12,6,existing credits paid back duly till now,radio/television,484,< 100 DM,4 <= ... < 7 years,3,male : married/widowed,guarantor,3,real estate,28,Bank,Own,1,unskilled - resident,1,,Yes,1
+A11,36,critical account,Car New,9629,< 100 DM,4 <= ... < 7 years,4,male : single,,4,car or other,24,,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A11,48,existing credits paid back duly till now,domestic appliances,3051,< 100 DM,1 <= ... < 4 years,3,male : single,,4,car or other,54,,Own,1,skilled employee,1,,Yes,2
+A11,48,existing credits paid back duly till now,Car Used,3931,< 100 DM,4 <= ... < 7 years,4,male : single,,4,no property,46,,For Free,1,skilled employee,2,,Yes,2
+A12,36,delay in paying off in the past,Car Used,7432,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,2,building society savings agreement/ life insurance,54,,Rent,1,skilled employee,1,,Yes,1
+A14,6,existing credits paid back duly till now,domestic appliances,1338,500 <= ... < 1000 DM,1 <= ... < 4 years,1,male : divorced/separated,,4,real estate,62,,Own,1,skilled employee,1,,Yes,1
+A14,6,critical account,radio/television,1554,< 100 DM,4 <= ... < 7 years,1,female : divorced/separated/married,,2,car or other,24,,Rent,2,skilled employee,1,registered under the customers name,Yes,1
+A11,36,existing credits paid back duly till now,Car New0,15857,< 100 DM,unemployed,2,male : divorced/separated,co-applicant,3,car or other,43,,Own,1,management,1,,Yes,1
+A11,18,existing credits paid back duly till now,radio/television,1345,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,3,real estate,26,Bank,Own,1,skilled employee,1,,Yes,2
+A14,12,existing credits paid back duly till now,Car Used,1101,< 100 DM,1 <= ... < 4 years,3,male : married/widowed,,2,real estate,27,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A13,12,existing credits paid back duly till now,radio/television,3016,< 100 DM,1 <= ... < 4 years,3,male : married/widowed,,1,car or other,24,,Own,1,skilled employee,1,,Yes,1
+A11,36,existing credits paid back duly till now,furniture/equipment,2712,< 100 DM, >= 7 years,2,male : single,,2,building society savings agreement/ life insurance,41,Bank,Own,1,skilled employee,2,,Yes,2
+A11,8,critical account,Car Used,731,< 100 DM, >= 7 years,4,male : single,,4,real estate,47,,Own,2,unskilled - resident,1,,Yes,1
+A14,18,critical account,furniture/equipment,3780,< 100 DM,< 1 year,3,male : divorced/separated,,2,car or other,35,,Own,2,management,1,registered under the customers name,Yes,1
+A11,21,critical account,Car Used,1602,< 100 DM, >= 7 years,4,male : married/widowed,,3,car or other,30,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,18,critical account,Car Used,3966,< 100 DM, >= 7 years,1,female : divorced/separated/married,,4,real estate,33,Bank,Rent,3,skilled employee,1,registered under the customers name,Yes,2
+A14,18,no credits taken/ all credits paid back duly,business,4165,< 100 DM,1 <= ... < 4 years,2,male : single,,2,car or other,36,Stores,Own,2,skilled employee,2,,Yes,2
+A11,36,existing credits paid back duly till now,Car New,8335,Unknown, >= 7 years,3,male : single,,4,no property,47,,For Free,1,skilled employee,1,,Yes,2
+A12,48,delay in paying off in the past,business,6681,Unknown,1 <= ... < 4 years,4,male : single,,4,no property,38,,For Free,1,skilled employee,2,registered under the customers name,Yes,1
+A14,24,delay in paying off in the past,business,2375,500 <= ... < 1000 DM,1 <= ... < 4 years,4,male : single,,2,car or other,44,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A11,18,existing credits paid back duly till now,Car Used,1216,< 100 DM,< 1 year,4,female : divorced/separated/married,,3,car or other,23,,Rent,1,skilled employee,1,registered under the customers name,Yes,2
+A11,45,no credits taken/ all credits paid back duly,business,11816,< 100 DM, >= 7 years,2,male : single,,4,car or other,29,,Rent,2,skilled employee,1,,Yes,2
+A12,24,existing credits paid back duly till now,radio/television,5084,Unknown, >= 7 years,2,female : divorced/separated/married,,4,car or other,42,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A13,15,existing credits paid back duly till now,radio/television,2327,< 100 DM,< 1 year,2,female : divorced/separated/married,,3,real estate,25,,Own,1,unskilled - resident,1,,Yes,2
+A11,12,no credits taken/ all credits paid back duly,Car Used,1082,< 100 DM,1 <= ... < 4 years,4,male : single,,4,car or other,48,Bank,Own,2,skilled employee,1,,Yes,2
+A14,12,existing credits paid back duly till now,radio/television,886,Unknown,1 <= ... < 4 years,4,female : divorced/separated/married,,2,car or other,21,,Own,1,skilled employee,1,,Yes,1
+A14,4,existing credits paid back duly till now,furniture/equipment,601,< 100 DM,< 1 year,1,female : divorced/separated/married,,3,real estate,23,,Rent,1,unskilled - resident,2,,Yes,1
+A11,24,critical account,Car New,2957,< 100 DM, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,63,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,24,critical account,radio/television,2611,< 100 DM, >= 7 years,4,male : married/widowed,co-applicant,3,real estate,46,,Own,2,skilled employee,1,,Yes,1
+A11,36,existing credits paid back duly till now,furniture/equipment,5179,< 100 DM,4 <= ... < 7 years,4,male : single,,2,building society savings agreement/ life insurance,29,,Own,1,skilled employee,1,,Yes,2
+A14,21,delay in paying off in the past,Car New,2993,< 100 DM,1 <= ... < 4 years,3,male : single,,2,real estate,28,Stores,Own,2,unskilled - resident,1,,Yes,1
+A14,18,existing credits paid back duly till now,repairs,1943,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,real estate,23,,Own,1,skilled employee,1,,Yes,2
+A14,24,all credits at this bank paid back duly,business,1559,< 100 DM,4 <= ... < 7 years,4,male : single,,4,car or other,50,Bank,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,18,existing credits paid back duly till now,furniture/equipment,3422,< 100 DM, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,47,Bank,Own,3,skilled employee,2,registered under the customers name,Yes,1
+A12,21,existing credits paid back duly till now,furniture/equipment,3976,Unknown,4 <= ... < 7 years,2,male : single,,3,car or other,35,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,18,existing credits paid back duly till now,Car Used,6761,Unknown,1 <= ... < 4 years,2,male : single,,4,car or other,68,,Rent,2,skilled employee,1,,Yes,2
+A14,24,existing credits paid back duly till now,Car Used,1249,< 100 DM,< 1 year,4,male : married/widowed,,2,real estate,28,,Own,1,skilled employee,1,,Yes,1
+A11,9,existing credits paid back duly till now,radio/television,1364,< 100 DM,4 <= ... < 7 years,3,male : single,,4,real estate,59,,Own,1,skilled employee,1,,Yes,1
+A11,12,existing credits paid back duly till now,radio/television,709,< 100 DM, >= 7 years,4,male : single,,4,real estate,57,Stores,Own,1,unskilled - resident,1,,Yes,2
+A11,20,critical account,Car Used,2235,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,guarantor,2,building society savings agreement/ life insurance,33,Bank,Rent,2,skilled employee,1,,No,2
+A14,24,critical account,Car New,4042,Unknown,4 <= ... < 7 years,3,male : single,,4,building society savings agreement/ life insurance,43,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,15,critical account,radio/television,1471,< 100 DM,1 <= ... < 4 years,4,male : single,,4,no property,35,,For Free,2,skilled employee,1,registered under the customers name,Yes,1
+A11,18,all credits at this bank paid back duly,Car Used,1442,< 100 DM,4 <= ... < 7 years,4,male : single,,4,no property,32,,For Free,2,unskilled - resident,2,,Yes,2
+A14,36,delay in paying off in the past,Car Used,10875,< 100 DM, >= 7 years,2,male : single,,2,car or other,45,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,Car Used,1474,100 <= ... < 500 DM,< 1 year,4,male : married/widowed,,3,real estate,33,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,10,existing credits paid back duly till now,retraining,894,Unknown,4 <= ... < 7 years,4,female : divorced/separated/married,,3,building society savings agreement/ life insurance,40,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,15,critical account,furniture/equipment,3343,< 100 DM,1 <= ... < 4 years,4,male : single,,2,no property,28,,For Free,1,skilled employee,1,registered under the customers name,Yes,1
+A11,15,existing credits paid back duly till now,Car Used,3959,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,2,building society savings agreement/ life insurance,29,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,9,existing credits paid back duly till now,Car Used,3577,100 <= ... < 500 DM,1 <= ... < 4 years,1,male : single,guarantor,2,real estate,26,,Rent,1,skilled employee,2,,No,1
+A14,24,critical account,Car New,5804,. >= 1000 DM,1 <= ... < 4 years,4,male : single,,2,real estate,27,,Own,2,skilled employee,1,,Yes,1
+A14,18,delay in paying off in the past,business,2169,< 100 DM,1 <= ... < 4 years,4,male : married/widowed,,2,car or other,28,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A11,24,existing credits paid back duly till now,radio/television,2439,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,real estate,35,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,27,critical account,furniture/equipment,4526,. >= 1000 DM,< 1 year,4,male : single,,2,real estate,32,Stores,Own,2,unskilled - resident,2,registered under the customers name,Yes,1
+A14,10,existing credits paid back duly till now,furniture/equipment,2210,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,25,Bank,Rent,1,unskilled - resident,1,,Yes,2
+A14,15,existing credits paid back duly till now,furniture/equipment,2221,500 <= ... < 1000 DM,1 <= ... < 4 years,2,female : divorced/separated/married,,4,car or other,20,,Rent,1,skilled employee,1,,Yes,1
+A11,18,existing credits paid back duly till now,radio/television,2389,< 100 DM,< 1 year,4,female : divorced/separated/married,,1,car or other,27,Stores,Own,1,skilled employee,1,,Yes,1
+A14,12,critical account,furniture/equipment,3331,< 100 DM, >= 7 years,2,male : single,,4,building society savings agreement/ life insurance,42,Stores,Own,1,skilled employee,1,,Yes,1
+A14,36,existing credits paid back duly till now,business,7409,Unknown, >= 7 years,3,male : single,,2,building society savings agreement/ life insurance,37,,Own,2,skilled employee,1,,Yes,1
+A11,12,existing credits paid back duly till now,furniture/equipment,652,< 100 DM, >= 7 years,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,24,,Rent,1,skilled employee,1,,Yes,1
+A14,36,delay in paying off in the past,furniture/equipment,7678,500 <= ... < 1000 DM,4 <= ... < 7 years,2,female : divorced/separated/married,,4,car or other,40,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A13,6,critical account,Car Used,1343,< 100 DM, >= 7 years,1,male : single,,4,real estate,46,,Own,2,skilled employee,2,,No,1
+A11,24,critical account,business,1382,100 <= ... < 500 DM,4 <= ... < 7 years,4,male : single,,1,real estate,26,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,15,existing credits paid back duly till now,domestic appliances,874,Unknown,< 1 year,4,female : divorced/separated/married,,1,real estate,24,,Own,1,skilled employee,1,,Yes,1
+A11,12,existing credits paid back duly till now,furniture/equipment,3590,< 100 DM,1 <= ... < 4 years,2,male : single,co-applicant,2,building society savings agreement/ life insurance,29,,Own,1,unskilled - resident,2,,Yes,1
+A12,11,critical account,Car Used,1322,. >= 1000 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,car or other,40,,Own,2,skilled employee,1,,Yes,1
+A11,18,all credits at this bank paid back duly,radio/television,1940,< 100 DM,< 1 year,3,male : single,co-applicant,4,no property,36,Bank,For Free,1,management,1,registered under the customers name,Yes,1
+A14,36,existing credits paid back duly till now,radio/television,3595,< 100 DM, >= 7 years,4,male : single,,2,car or other,28,,Own,1,skilled employee,1,,Yes,1
+A11,9,existing credits paid back duly till now,Car Used,1422,< 100 DM,< 1 year,3,male : single,,2,no property,27,,For Free,1,management,1,registered under the customers name,Yes,2
+A14,30,critical account,radio/television,6742,Unknown,4 <= ... < 7 years,2,male : single,,3,building society savings agreement/ life insurance,36,,Own,2,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,Car New,7814,< 100 DM,4 <= ... < 7 years,3,male : single,,3,car or other,38,,Own,1,management,1,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,Car New,9277,Unknown,1 <= ... < 4 years,2,male : divorced/separated,,4,no property,48,,For Free,1,skilled employee,1,registered under the customers name,Yes,1
+A12,30,critical account,Car Used,2181,Unknown, >= 7 years,4,male : single,,4,real estate,36,,Own,2,skilled employee,1,,Yes,1
+A14,18,critical account,radio/television,1098,< 100 DM,unemployed,4,female : divorced/separated/married,,4,car or other,65,,Own,2,unemployed,1,,Yes,1
+A12,24,existing credits paid back duly till now,furniture/equipment,4057,< 100 DM,4 <= ... < 7 years,3,male : divorced/separated,,3,car or other,43,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A11,12,existing credits paid back duly till now,education,795,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,53,,Own,1,skilled employee,1,,Yes,2
+A12,24,critical account,business,2825,Unknown,4 <= ... < 7 years,4,male : single,,3,no property,34,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A12,48,existing credits paid back duly till now,business,15672,< 100 DM,1 <= ... < 4 years,2,male : single,,2,car or other,23,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,36,critical account,Car Used,6614,< 100 DM, >= 7 years,4,male : single,,4,car or other,34,,Own,2,management,1,registered under the customers name,Yes,1
+A14,28,all credits at this bank paid back duly,Car New,7824,Unknown,< 1 year,3,male : single,guarantor,4,real estate,40,Bank,Rent,2,skilled employee,2,registered under the customers name,Yes,1
+A11,27,critical account,business,2442,< 100 DM, >= 7 years,4,male : single,,4,car or other,43,Stores,Own,4,management,2,registered under the customers name,Yes,1
+A14,15,critical account,radio/television,1829,< 100 DM, >= 7 years,4,male : single,,4,car or other,46,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A11,12,critical account,Car Used,2171,< 100 DM,1 <= ... < 4 years,4,male : single,,4,building society savings agreement/ life insurance,38,Bank,Own,2,unskilled - resident,1,,No,1
+A12,36,critical account,Car New,5800,< 100 DM,1 <= ... < 4 years,3,male : single,,4,car or other,34,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,18,critical account,radio/television,1169,Unknown,1 <= ... < 4 years,4,male : single,,3,building society savings agreement/ life insurance,29,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,36,delay in paying off in the past,Car New,8947,Unknown,4 <= ... < 7 years,3,male : single,,2,car or other,31,Stores,Own,1,management,2,registered under the customers name,Yes,1
+A11,21,existing credits paid back duly till now,radio/television,2606,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,28,,Rent,1,management,1,registered under the customers name,Yes,1
+A14,12,critical account,furniture/equipment,1592,. >= 1000 DM,4 <= ... < 7 years,3,female : divorced/separated/married,,2,building society savings agreement/ life insurance,35,,Own,1,skilled employee,1,,No,1
+A14,15,existing credits paid back duly till now,furniture/equipment,2186,Unknown,4 <= ... < 7 years,1,female : divorced/separated/married,,4,real estate,33,Bank,Rent,1,unskilled - resident,1,,Yes,1
+A11,18,existing credits paid back duly till now,furniture/equipment,4153,< 100 DM,1 <= ... < 4 years,2,male : single,co-applicant,3,car or other,42,,Own,1,skilled employee,1,,Yes,2
+A11,16,critical account,Car Used,2625,< 100 DM, >= 7 years,2,male : single,guarantor,4,building society savings agreement/ life insurance,43,Bank,Rent,1,skilled employee,1,registered under the customers name,Yes,2
+A14,20,critical account,Car Used,3485,Unknown,< 1 year,2,male : divorced/separated,,4,real estate,44,,Own,2,skilled employee,1,registered under the customers name,Yes,1
+A14,36,critical account,Car New,10477,Unknown, >= 7 years,2,male : single,,4,no property,42,,For Free,2,skilled employee,1,,Yes,1
+A14,15,existing credits paid back duly till now,radio/television,1386,Unknown,1 <= ... < 4 years,4,male : married/widowed,,2,real estate,40,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A14,24,existing credits paid back duly till now,radio/television,1278,< 100 DM, >= 7 years,4,male : single,,1,real estate,36,,Own,1,management,1,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,radio/television,1107,< 100 DM,1 <= ... < 4 years,2,male : single,,2,real estate,20,,Rent,1,management,2,registered under the customers name,Yes,1
+A11,21,existing credits paid back duly till now,Car Used,3763,Unknown,4 <= ... < 7 years,2,male : single,co-applicant,2,real estate,24,,Own,1,unskilled - resident,1,,No,1
+A12,36,existing credits paid back duly till now,education,3711,Unknown,1 <= ... < 4 years,2,male : married/widowed,,2,car or other,27,,Own,1,skilled employee,1,,Yes,1
+A14,15,delay in paying off in the past,Car New,3594,< 100 DM,< 1 year,1,female : divorced/separated/married,,2,building society savings agreement/ life insurance,46,,Own,2,unskilled - resident,1,,Yes,1
+A12,9,existing credits paid back duly till now,Car Used,3195,Unknown,1 <= ... < 4 years,1,female : divorced/separated/married,,2,real estate,33,,Own,1,unskilled - resident,1,,Yes,1
+A14,36,delay in paying off in the past,radio/television,4454,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,4,real estate,34,,Own,2,skilled employee,1,,Yes,1
+A12,24,critical account,furniture/equipment,4736,< 100 DM,< 1 year,2,female : divorced/separated/married,,4,car or other,25,Bank,Own,1,unskilled - resident,1,,Yes,2
+A12,30,existing credits paid back duly till now,radio/television,2991,Unknown, >= 7 years,2,female : divorced/separated/married,,4,car or other,25,,Own,1,skilled employee,1,,Yes,1
+A14,11,existing credits paid back duly till now,business,2142,. >= 1000 DM, >= 7 years,1,male : divorced/separated,,2,real estate,28,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,24,all credits at this bank paid back duly,business,3161,< 100 DM,1 <= ... < 4 years,4,male : single,,2,building society savings agreement/ life insurance,31,,Rent,1,skilled employee,1,registered under the customers name,Yes,2
+A12,48,no credits taken/ all credits paid back duly,Car New0,18424,< 100 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,2,building society savings agreement/ life insurance,32,Bank,Own,1,management,1,registered under the customers name,No,2
+A14,10,existing credits paid back duly till now,Car New,2848,100 <= ... < 500 DM,1 <= ... < 4 years,1,male : single,co-applicant,2,real estate,32,,Own,1,skilled employee,2,,Yes,1
+A11,6,existing credits paid back duly till now,Car Used,14896,< 100 DM, >= 7 years,1,male : single,,4,no property,68,Bank,Own,1,management,1,registered under the customers name,Yes,2
+A11,24,existing credits paid back duly till now,furniture/equipment,2359,100 <= ... < 500 DM,unemployed,1,male : divorced/separated,,1,building society savings agreement/ life insurance,33,,Own,1,skilled employee,1,,Yes,2
+A11,24,existing credits paid back duly till now,furniture/equipment,3345,< 100 DM, >= 7 years,4,male : single,,2,building society savings agreement/ life insurance,39,,Rent,1,management,1,registered under the customers name,Yes,2
+A14,18,critical account,furniture/equipment,1817,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,no property,28,,Own,2,skilled employee,1,,Yes,1
+A14,48,delay in paying off in the past,radio/television,12749,500 <= ... < 1000 DM,4 <= ... < 7 years,4,male : single,,1,car or other,37,,Own,1,management,1,registered under the customers name,Yes,1
+A11,9,existing credits paid back duly till now,radio/television,1366,< 100 DM,< 1 year,3,female : divorced/separated/married,,4,building society savings agreement/ life insurance,22,,Rent,1,skilled employee,1,,Yes,2
+A12,12,existing credits paid back duly till now,Car Used,2002,< 100 DM,4 <= ... < 7 years,3,male : single,,4,building society savings agreement/ life insurance,30,,Rent,1,skilled employee,2,registered under the customers name,Yes,1
+A11,24,all credits at this bank paid back duly,furniture/equipment,6872,< 100 DM,< 1 year,2,male : divorced/separated,,1,building society savings agreement/ life insurance,55,Bank,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A11,12,all credits at this bank paid back duly,Car Used,697,< 100 DM,< 1 year,4,male : single,,2,car or other,46,Bank,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A11,18,critical account,furniture/equipment,1049,< 100 DM,< 1 year,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,21,,Rent,1,skilled employee,1,,Yes,1
+A11,48,existing credits paid back duly till now,Car New,10297,< 100 DM,4 <= ... < 7 years,4,male : single,,4,no property,39,Stores,For Free,3,skilled employee,2,registered under the customers name,Yes,2
+A14,30,existing credits paid back duly till now,radio/television,1867,Unknown, >= 7 years,4,male : single,,4,car or other,58,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,12,delay in paying off in the past,Car Used,1344,< 100 DM,1 <= ... < 4 years,4,male : single,,2,real estate,43,,Own,2,unskilled - resident,2,,Yes,1
+A11,24,existing credits paid back duly till now,furniture/equipment,1747,< 100 DM,< 1 year,4,male : single,co-applicant,1,building society savings agreement/ life insurance,24,,Own,1,unskilled - resident,1,,No,1
+A12,9,existing credits paid back duly till now,radio/television,1670,< 100 DM,< 1 year,4,female : divorced/separated/married,,2,car or other,22,,Own,1,skilled employee,1,registered under the customers name,Yes,2
+A14,9,critical account,Car Used,1224,< 100 DM,1 <= ... < 4 years,3,male : single,,1,real estate,30,,Own,2,skilled employee,1,,Yes,1
+A14,12,critical account,radio/television,522,500 <= ... < 1000 DM, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,42,,Own,2,skilled employee,2,registered under the customers name,Yes,1
+A11,12,existing credits paid back duly till now,radio/television,1498,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,1,car or other,23,Bank,Own,1,skilled employee,1,,Yes,1
+A12,30,delay in paying off in the past,radio/television,1919,100 <= ... < 500 DM,< 1 year,4,male : single,,3,no property,30,Stores,Own,2,management,1,,Yes,2
+A13,9,existing credits paid back duly till now,radio/television,745,< 100 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,2,real estate,28,,Own,1,unskilled - resident,1,,Yes,2
+A12,6,existing credits paid back duly till now,radio/television,2063,< 100 DM,< 1 year,4,male : married/widowed,,3,car or other,30,,Rent,1,management,1,registered under the customers name,Yes,1
+A12,60,existing credits paid back duly till now,education,6288,< 100 DM,1 <= ... < 4 years,4,male : single,,4,no property,42,,For Free,1,skilled employee,1,,Yes,2
+A14,24,critical account,Car New,6842,Unknown,1 <= ... < 4 years,2,male : single,,4,building society savings agreement/ life insurance,46,,Own,2,management,2,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,Car Used,3527,Unknown,< 1 year,2,male : single,,3,building society savings agreement/ life insurance,45,,Own,1,management,2,registered under the customers name,Yes,1
+A14,10,existing credits paid back duly till now,Car Used,1546,< 100 DM,1 <= ... < 4 years,3,male : single,,2,real estate,31,,Own,1,unskilled - resident,2,,No,1
+A14,24,existing credits paid back duly till now,furniture/equipment,929,Unknown,4 <= ... < 7 years,4,male : single,,2,car or other,31,Stores,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,4,critical account,Car Used,1455,< 100 DM,4 <= ... < 7 years,2,male : single,,1,real estate,42,,Own,3,unskilled - resident,2,,Yes,1
+A11,15,existing credits paid back duly till now,furniture/equipment,1845,< 100 DM,< 1 year,4,female : divorced/separated/married,guarantor,1,building society savings agreement/ life insurance,46,,Rent,1,skilled employee,1,,Yes,1
+A12,48,no credits taken/ all credits paid back duly,Car Used,8358,500 <= ... < 1000 DM,< 1 year,1,female : divorced/separated/married,,1,car or other,30,,Own,2,skilled employee,1,,Yes,1
+A11,24,all credits at this bank paid back duly,furniture/equipment,3349,500 <= ... < 1000 DM,< 1 year,4,male : single,,4,no property,30,,For Free,1,skilled employee,2,registered under the customers name,Yes,2
+A14,12,existing credits paid back duly till now,Car Used,2859,Unknown,unemployed,4,male : single,,4,no property,38,,Own,1,management,1,registered under the customers name,Yes,1
+A14,18,existing credits paid back duly till now,furniture/equipment,1533,< 100 DM,< 1 year,4,male : married/widowed,co-applicant,1,building society savings agreement/ life insurance,43,,Own,1,unskilled - resident,2,,Yes,2
+A14,24,existing credits paid back duly till now,radio/television,3621,100 <= ... < 500 DM, >= 7 years,2,male : single,,4,car or other,31,,Own,2,skilled employee,1,,Yes,2
+A12,18,critical account,business,3590,< 100 DM,unemployed,3,male : married/widowed,,3,car or other,40,,Own,3,unemployed,2,registered under the customers name,Yes,1
+A11,36,delay in paying off in the past,business,2145,< 100 DM,4 <= ... < 7 years,2,male : single,,1,car or other,24,,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A12,24,existing credits paid back duly till now,Car New,4113,500 <= ... < 1000 DM,< 1 year,3,female : divorced/separated/married,,4,car or other,28,,Rent,1,skilled employee,1,,Yes,2
+A14,36,existing credits paid back duly till now,furniture/equipment,10974,< 100 DM,unemployed,4,female : divorced/separated/married,,2,car or other,26,,Own,2,management,1,registered under the customers name,Yes,2
+A11,12,existing credits paid back duly till now,Car Used,1893,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,guarantor,4,building society savings agreement/ life insurance,29,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A11,24,critical account,radio/television,1231,. >= 1000 DM, >= 7 years,4,female : divorced/separated/married,,4,building society savings agreement/ life insurance,57,,Rent,2,management,1,registered under the customers name,Yes,1
+A13,30,critical account,radio/television,3656,Unknown, >= 7 years,4,male : single,,4,building society savings agreement/ life insurance,49,Stores,Own,2,unskilled - resident,1,,Yes,1
+A12,9,critical account,radio/television,1154,< 100 DM, >= 7 years,2,male : single,,4,real estate,37,,Own,3,unskilled - resident,1,,Yes,1
+A11,28,existing credits paid back duly till now,Car Used,4006,< 100 DM,1 <= ... < 4 years,3,male : single,,2,car or other,45,,Own,1,unskilled - resident,1,,Yes,2
+A12,24,existing credits paid back duly till now,furniture/equipment,3069,100 <= ... < 500 DM, >= 7 years,4,male : single,,4,no property,30,,For Free,1,skilled employee,1,,Yes,1
+A14,6,critical account,radio/television,1740,< 100 DM, >= 7 years,2,male : married/widowed,,2,real estate,30,,Rent,2,skilled employee,1,,Yes,1
+A12,21,delay in paying off in the past,Car Used,2353,< 100 DM,1 <= ... < 4 years,1,male : divorced/separated,,4,building society savings agreement/ life insurance,47,,Own,2,skilled employee,1,,Yes,1
+A14,15,existing credits paid back duly till now,Car Used,3556,Unknown,1 <= ... < 4 years,3,male : single,,2,no property,29,,Own,1,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,radio/television,2397,500 <= ... < 1000 DM, >= 7 years,3,male : single,,2,car or other,35,Bank,Own,2,skilled employee,1,registered under the customers name,Yes,2
+A12,6,existing credits paid back duly till now,repairs,454,< 100 DM,< 1 year,3,male : married/widowed,,1,building society savings agreement/ life insurance,22,,Own,1,unskilled - resident,1,,Yes,1
+A12,30,existing credits paid back duly till now,radio/television,1715,Unknown,1 <= ... < 4 years,4,female : divorced/separated/married,,1,car or other,26,,Own,1,skilled employee,1,,Yes,1
+A12,27,critical account,radio/television,2520,500 <= ... < 1000 DM,1 <= ... < 4 years,4,male : single,,2,building society savings agreement/ life insurance,23,,Own,2,unskilled - resident,1,,Yes,2
+A14,15,existing credits paid back duly till now,radio/television,3568,< 100 DM, >= 7 years,4,female : divorced/separated/married,,2,car or other,54,Bank,Rent,1,management,1,registered under the customers name,Yes,1
+A14,42,existing credits paid back duly till now,radio/television,7166,Unknown,4 <= ... < 7 years,2,male : married/widowed,,4,building society savings agreement/ life insurance,29,,Rent,1,skilled employee,1,registered under the customers name,Yes,1
+A11,11,critical account,Car Used,3939,< 100 DM,1 <= ... < 4 years,1,male : single,,2,real estate,40,,Own,2,unskilled - resident,2,,Yes,1
+A12,15,existing credits paid back duly till now,repairs,1514,100 <= ... < 500 DM,1 <= ... < 4 years,4,male : single,guarantor,2,real estate,22,,Own,1,skilled employee,1,,Yes,1
+A14,24,existing credits paid back duly till now,Car Used,7393,< 100 DM,1 <= ... < 4 years,1,male : single,,4,building society savings agreement/ life insurance,43,,Own,1,unskilled - resident,2,,Yes,1
+A11,24,all credits at this bank paid back duly,Car Used,1193,< 100 DM,unemployed,1,female : divorced/separated/married,co-applicant,4,no property,29,,Rent,2,unemployed,1,,Yes,2
+A11,60,existing credits paid back duly till now,business,7297,< 100 DM, >= 7 years,4,male : single,co-applicant,4,no property,36,,Rent,1,skilled employee,1,,Yes,2
+A14,30,critical account,radio/television,2831,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,2,car or other,33,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A13,24,existing credits paid back duly till now,radio/television,1258,500 <= ... < 1000 DM,1 <= ... < 4 years,3,female : divorced/separated/married,,3,car or other,57,,Own,1,unskilled - resident,1,,Yes,1
+A12,6,existing credits paid back duly till now,radio/television,753,< 100 DM,1 <= ... < 4 years,2,female : divorced/separated/married,guarantor,3,real estate,64,,Own,1,skilled employee,1,,Yes,1
+A12,18,delay in paying off in the past,business,2427,Unknown, >= 7 years,4,male : single,,2,building society savings agreement/ life insurance,42,,Own,2,skilled employee,1,,Yes,1
+A14,24,delay in paying off in the past,Car Used,2538,< 100 DM, >= 7 years,4,male : single,,4,car or other,47,,Own,2,unskilled - resident,2,,Yes,2
+A12,15,all credits at this bank paid back duly,Car Used,1264,100 <= ... < 500 DM,1 <= ... < 4 years,2,male : married/widowed,,2,building society savings agreement/ life insurance,25,,Rent,1,skilled employee,1,,Yes,2
+A12,30,critical account,furniture/equipment,8386,< 100 DM,4 <= ... < 7 years,2,male : single,,2,building society savings agreement/ life insurance,49,,Own,1,skilled employee,1,,Yes,2
+A14,48,existing credits paid back duly till now,business,4844,< 100 DM,unemployed,3,male : single,,2,car or other,33,Bank,Rent,1,management,1,registered under the customers name,Yes,2
+A13,21,existing credits paid back duly till now,Car Used,2923,100 <= ... < 500 DM,1 <= ... < 4 years,1,female : divorced/separated/married,,1,car or other,28,Bank,Own,1,management,1,registered under the customers name,Yes,1
+A11,36,existing credits paid back duly till now,Car New,8229,< 100 DM,1 <= ... < 4 years,2,male : single,,2,building society savings agreement/ life insurance,26,,Own,1,skilled employee,2,,Yes,2
+A14,24,critical account,furniture/equipment,2028,< 100 DM,4 <= ... < 7 years,2,male : single,,2,building society savings agreement/ life insurance,30,,Own,2,unskilled - resident,1,,Yes,1
+A11,15,critical account,furniture/equipment,1433,< 100 DM,1 <= ... < 4 years,4,female : divorced/separated/married,,3,building society savings agreement/ life insurance,25,,Rent,2,skilled employee,1,,Yes,1
+A13,42,no credits taken/ all credits paid back duly,business,6289,< 100 DM,< 1 year,2,male : divorced/separated,,1,building society savings agreement/ life insurance,33,,Own,2,skilled employee,1,,Yes,1
+A14,13,existing credits paid back duly till now,radio/television,1409,100 <= ... < 500 DM,unemployed,2,female : divorced/separated/married,,4,real estate,64,,Own,1,skilled employee,1,,Yes,1
+A11,24,existing credits paid back duly till now,Car New,6579,< 100 DM,unemployed,4,male : single,,2,no property,29,,For Free,1,management,1,registered under the customers name,Yes,1
+A12,24,critical account,radio/television,1743,< 100 DM, >= 7 years,4,male : single,,2,building society savings agreement/ life insurance,48,,Own,2,unskilled - resident,1,,Yes,1
+A14,12,critical account,education,3565,Unknown,< 1 year,2,male : single,,1,building society savings agreement/ life insurance,37,,Own,2,unskilled - resident,2,,Yes,1
+A14,15,all credits at this bank paid back duly,radio/television,1569,100 <= ... < 500 DM, >= 7 years,4,male : single,,4,car or other,34,Bank,Own,1,unskilled - resident,2,,Yes,1
+A11,18,existing credits paid back duly till now,radio/television,1936,Unknown,4 <= ... < 7 years,2,male : married/widowed,,4,car or other,23,,Rent,2,unskilled - resident,1,,Yes,1
+A11,36,existing credits paid back duly till now,furniture/equipment,3959,< 100 DM,unemployed,4,male : single,,3,building society savings agreement/ life insurance,30,,Own,1,management,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,Car Used,2390,Unknown, >= 7 years,4,male : single,,3,car or other,50,,Own,1,skilled employee,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,furniture/equipment,1736,< 100 DM,4 <= ... < 7 years,3,female : divorced/separated/married,,4,real estate,31,,Own,1,unskilled - resident,1,,Yes,1
+A11,30,existing credits paid back duly till now,Car New,3857,< 100 DM,1 <= ... < 4 years,4,male : divorced/separated,,4,building society savings agreement/ life insurance,40,,Own,1,management,1,registered under the customers name,Yes,1
+A14,12,existing credits paid back duly till now,radio/television,804,< 100 DM, >= 7 years,4,male : single,,4,car or other,38,,Own,1,skilled employee,1,,Yes,1
+A11,45,existing credits paid back duly till now,radio/television,1845,< 100 DM,1 <= ... < 4 years,4,male : single,,4,no property,23,,For Free,1,skilled employee,1,registered under the customers name,Yes,2
+A12,45,critical account,Car New,4576,100 <= ... < 500 DM,unemployed,3,male : single,,4,car or other,27,,Own,1,skilled employee,1,,Yes,1
